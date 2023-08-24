@@ -1,0 +1,9 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'Brinkerhoff_Prospectus.blg'
+[64] biber-darwin:340> INFO - === Tue Aug 22, 2023, 09:01:51
+[82] Biber.pm:419> INFO - Reading 'Brinkerhoff_Prospectus.bcf'
+[161] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[174] bbl.pm:660> INFO - Writing 'Brinkerhoff_Prospectus.bbl' with encoding 'UTF-8'
+[174] bbl.pm:763> INFO - Output to Brinkerhoff_Prospectus.bbl
+[174] Biber.pm:131> WARN - The file 'Brinkerhoff_Prospectus.bcf' does not contain any citations!
+[174] Biber.pm:133> INFO - WARNINGS: 1
