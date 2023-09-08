@@ -8,11 +8,11 @@
 \usepackage[main=american, german]{babel}% Recommended
 \usepackage{csquotes}% Recommended
 \usepackage[backend=biber,
-             style=unified,
-             maxcitenames=3,
-             maxbibnames=99,
-             natbib,
-             url=false]{biblatex}
+            style=unified,
+            maxcitenames=3,
+            maxbibnames=99,
+            natbib,
+            url=false]{biblatex}
 \addbibresource{~/Library.bib}
 \setcounter{biburlnumpenalty}{100}  % allow URL breaks at numbers
 %\setcounter{biburlucpenalty}{100}   % allow URL breaks at uppercase letters
@@ -103,9 +103,9 @@
 
 \makeatletter
 \renewcommand{\paragraph}{%
-  \@startsection{paragraph}{4}%
-  {\z@}{0ex \@plus 1ex \@minus .2ex}{-1em}%
-  {\normalfont\normalsize\bfseries}%
+    \@startsection{paragraph}{4}%
+    {\z@}{0ex \@plus 1ex \@minus .2ex}{-1em}%
+    {\normalfont\normalsize\bfseries}%
 }
 \makeatother
 \parindent=10pt
@@ -121,7 +121,7 @@
 
 %% Line spacing setting. Comment out the line spacing you do not need. Comment out all if you want single spacing.
 %\doublespacing
-%\onehalfspacing
+\onehalfspacing
 
 \begin{center}
     {\Large \textbf{Dissertation Prospectus}}
@@ -139,11 +139,13 @@
 \section{Introduction} \label{sec:Introduction}
 %------------------------------------
 
-My dissertation will be focused on the interactions of tone and voice quality 
+My dissertation will be focused on the interactions between tone and voice quality in Santiago Laxopa Zapotec and their implications for the phonetic-phonology interface. Santiago Laxopa Zapotec is an Otomanguean language that allows for nearly all combinations of its five tones and four phonation types.\footnote{There are notable gaps between high tone and breathy voice and checked and falling tone.} 
 
-%------------------------------------
-\section{Research Questions and their importance} \label{sec:Questions}
-%------------------------------------
+This dissertation will address this interaction by explaining why tone and voice quality is apparently so compatible in Otomanguean languages. Currently there is one account called the Laryngeal Complexity Hypothesis \citep{silvermanLaryngealComplexityOtomanguean1997,silvermanPhasingRecoverability1997,blankenshipTimeCourseBreathiness1997,blankenshipTimingNonmodalPhonation2002} which explains this in terms of phasing or timing of modal and non-modal phonation. This dissertation will reevaluate the Laryngeal Complexity Hypothesis in light of Santiago Laxopa Zapotec. 
+
+Because SLZ appears to have a timing difference between the glottalized portion of the vowel in checked and laryngealized vowels, this dissertation will address how dynamic changes in voice quality are best represented in the phonology. This will be done by performing a Generalized Additive Mixed Model on data collected in 2022 to determine whether a timing difference actually exists. If this timing difference is factual then I will provide a phonological account of timing differences. 
+
+Because these different voice qualities are contrastive and there must be some fundamental difference in the phonology in addition to what we see in the phonetics. Additionally, this dissertation addresses why multiple voice qualities are so reliant on the same features. This will be answered by discussing the problems this posses for phonology (especially the difference between checked and laryngealized), how speakers distinguish between the different voice qualities both phonologically and phonetically. 
 
 
 %------------------------------------
@@ -154,19 +156,100 @@ I anticipate that the dissertation will contain the following information in the
 
 \begin{enumerate}
     \item Introduction
+    \begin{itemize}
+        \item Overview of what tone, voice quality, and their interactions are
+        \item Introduce research questions and their importance
+        \item Provide roadmap for dissertation
+    \end{itemize}
     \item Language Background
+    \begin{itemize}
+        \item Introduce the main language of study
+        \item A brief phonetic and phonological description of SLZ
+        \item Description of the tones
+        \item Description of the voice quality
+    \end{itemize}
     \item Theoretical Background
+    \begin{itemize}
+        \item Discuss phonetics-phonology interface
+        \item Introduce and discuss Laryngeal Complexity Hypothesis
+        \item Talk about current ways of accounting for tone and voice quality 
+        \begin{itemize}
+            \item Autosegmental–metrical theory 
+            \item Phonological features
+        \end{itemize}
+        \item Current accounts for dealing with timing issues in phonology
+        \begin{itemize}
+            \item Gestural Phonology
+            \item Q-theory
+        \end{itemize}
+    \end{itemize}
     \item Acoustic Study of Voice Quality in SLZ
+    \begin{itemize}
+        \item Production study of Voice Quality based on data Maya and I collected. 
+        \begin{itemize}
+            \item This is essentially parts of the QE that I have been expanding on over the summer. 
+        \end{itemize}
+        \item Perception study of Voice Quality
+        \begin{itemize}
+            \item This will give a more complete picture about the acoustics of voice quality and will help show what people are relying on when listening to these voice quality contrasts. 
+        \end{itemize}
+    \end{itemize}
     \item Measuring Laryngeal Complexity
+    \begin{itemize}
+        \item Generalized Additive Mixed Model analysis on the phonation types. 
+		\begin{itemize}
+            \item What are GAMMs
+            \item Why use GAMMs?
+            \item Do this on f0 and the measures that seem reliable
+        \end{itemize}
+        \item Phasing is probably only important for checked and laryngealized vowels
+        \item What does this do for me?
+    \end{itemize}
     \item The Phonological Structures of Voice Quality and Tone
+    \begin{itemize}
+        \item Develop a framework for explaining the timing differences that we observe
+        \item Develop a framework that accounts for the interaction of tone and voice quality
+    \end{itemize}
     \item Implications
+    \begin{itemize}
+        \item Discuss the implications for my proposal to other languages
+        \item How does it account for voice quality and tone interactions in other systems
+        \begin{itemize}
+            \item Things like tone and voice quality being dependent on each other. 
+        \end{itemize}
+    \end{itemize}
     \item Conclusion
+    \begin{itemize}
+        \item Summary of the dissertation, key take-aways, etc.
+    \end{itemize}
 \end{enumerate}
 
 %------------------------------------
 \section{Timeline for dissertation} \label{sec:Timeline}
 %------------------------------------
-
+\begin{table}[!h]
+    \centering
+    \caption{Dissertation timeline with milestone and dates}
+    \begin{tabular}{ll}
+    \lsptoprule   
+    Milestone & Date \\ 
+    \hline
+    Prospectus Completed & September 2023 \\
+    Apply for funding & Fall quarter 2023 \\
+    IRB application & Fall quarter 2023 \\
+    Design perception experiment & Fall 2023 \\
+    Create Stimuli for experiment & Winter 2024 \\
+    Pilot the study & Winter/Spring 2024 \\
+    Travel to Santiago Laxopa   &   Summer 2024  \\
+    Process data    &   Summer 2024 \\
+    First draft completed & December 2024  \\
+    Complete defense draft & January 2025  \\
+    Defend Dissertation & March 2025 \\
+    Revisions completed & May 2025 \\
+    Submit Dissertation & May 2025 \\ 
+    \lspbottomrule
+    \end{tabular}
+    \end{table}
 
 %------------------------------------
 %BIBLIOGRAPHY

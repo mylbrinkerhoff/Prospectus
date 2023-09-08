@@ -1,9 +1,19 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'Brinkerhoff_Prospectus.blg'
-[64] biber-darwin:340> INFO - === Tue Aug 22, 2023, 09:01:51
-[82] Biber.pm:419> INFO - Reading 'Brinkerhoff_Prospectus.bcf'
-[161] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
-[174] bbl.pm:660> INFO - Writing 'Brinkerhoff_Prospectus.bbl' with encoding 'UTF-8'
-[174] bbl.pm:763> INFO - Output to Brinkerhoff_Prospectus.bbl
-[174] Biber.pm:131> WARN - The file 'Brinkerhoff_Prospectus.bcf' does not contain any citations!
-[174] Biber.pm:133> INFO - WARNINGS: 1
+[38] biber-darwin:340> INFO - === Thu Sep  7, 2023, 10:37:28
+[47] Biber.pm:419> INFO - Reading 'Brinkerhoff_Prospectus.bcf'
+[95] Biber.pm:979> INFO - Found 4 citekeys in bib section 0
+[103] Biber.pm:4419> INFO - Processing section 0
+[109] Biber.pm:4610> INFO - Looking for bibtex file '~/Library.bib' for section 0
+[351] bibtex.pm:1713> INFO - LaTeX decoding ...
+[7908] bibtex.pm:1519> INFO - Found BibTeX data source '/Users/mlbrinke/Library.bib'
+[8097] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[8097] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[8097] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[8097] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[8099] bbl.pm:660> INFO - Writing 'Brinkerhoff_Prospectus.bbl' with encoding 'UTF-8'
+[8101] bbl.pm:763> INFO - Output to Brinkerhoff_Prospectus.bbl
+[8101] Biber.pm:131> WARN - Entry alias 'hannahsRoutledgeHandbookPhonological2018a' already has an alias 'hallArticulatoryPhonology2018', skipping ...
+[8101] Biber.pm:131> WARN - Entry alias 'katzRoutledgeHandbookPhonetics2019a' already has an alias 'garellekPhoneticsVoice2019', skipping ...
+[8101] Biber.pm:131> WARN - Entry alias 'mccarthyHarmonicGrammarHarmonic2016' is also a real entry key, skipping ...
+[8101] Biber.pm:133> INFO - WARNINGS: 3

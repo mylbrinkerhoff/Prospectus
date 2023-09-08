@@ -16,5 +16,171 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{blankenshipTimeCourseBreathiness1997}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1a34a3de891ef3377a4ce247b638c5b1}{%
+           family={Blankenship},
+           familyi={B\bibinitperiod},
+           given={Barbara},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {University of California, Los Angeles}%
+      }
+      \list{location}{1}{%
+        {Los Angeles, CA}%
+      }
+      \strng{namehash}{1a34a3de891ef3377a4ce247b638c5b1}
+      \strng{fullhash}{1a34a3de891ef3377a4ce247b638c5b1}
+      \strng{bibnamehash}{1a34a3de891ef3377a4ce247b638c5b1}
+      \strng{authorbibnamehash}{1a34a3de891ef3377a4ce247b638c5b1}
+      \strng{authornamehash}{1a34a3de891ef3377a4ce247b638c5b1}
+      \strng{authorfullhash}{1a34a3de891ef3377a4ce247b638c5b1}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In a language where breathiness or laryngealization is a contrastive property of vowels, such non-modal phonation lasts longer and may be of greater magnitude than in a language where it is an accident of consonant context. In Tagalog, breathy phonation occurs incidentally on vowels after /h/, and laryngealized phonation occurs after glottal stops. Mazatec, on the other hand, employs breathy and laryngealized vowels as separate phonemes that contrast with modal vowels. Several acoustic measures show that the difference between nonmodal and modal vowels is stronger and lasts longer in Mazatec than in Tagalog. Contrary to expectations, cross-speaker variation is not greater in Tagalog.}
+      \field{langid}{english}
+      \field{title}{The Time Course of Breathiness and Laryngealization in Vowels}
+      \field{type}{phdthesis}
+      \field{year}{1997}
+      \verb{file}
+      \verb /Users/mlbrinke/Zotero/storage/DWBRBDTY/blankenshipTimeCourseBreathiness1997.pdf
+      \endverb
+      \keyw{Laryngeal Complexity,Voice Quality}
+    \endentry
+    \entry{blankenshipTimingNonmodalPhonation2002}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1a34a3de891ef3377a4ce247b638c5b1}{%
+           family={Blankenship},
+           familyi={B\bibinitperiod},
+           given={Barbara},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1a34a3de891ef3377a4ce247b638c5b1}
+      \strng{fullhash}{1a34a3de891ef3377a4ce247b638c5b1}
+      \strng{bibnamehash}{1a34a3de891ef3377a4ce247b638c5b1}
+      \strng{authorbibnamehash}{1a34a3de891ef3377a4ce247b638c5b1}
+      \strng{authornamehash}{1a34a3de891ef3377a4ce247b638c5b1}
+      \strng{authorfullhash}{1a34a3de891ef3377a4ce247b638c5b1}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00954470}
+      \field{journaltitle}{Journal of Phonetics}
+      \field{langid}{english}
+      \field{month}{4}
+      \field{number}{2}
+      \field{title}{The Timing of Nonmodal Phonation in Vowels}
+      \field{volume}{30}
+      \field{year}{2002}
+      \field{pages}{163\bibrangedash 191}
+      \range{pages}{29}
+      \verb{doi}
+      \verb 10.1006/jpho.2001.0155
+      \endverb
+      \verb{file}
+      \verb /Users/mlbrinke/Zotero/storage/DIC4G7Z9/blankenshipTimingNonmodalPhonation2002.pdf
+      \endverb
+      \keyw{Laryngeal Complexity,Voice Quality}
+    \endentry
+    \entry{silvermanLaryngealComplexityOtomanguean1997}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a803334159d0d5978fcffefdd70c8ce1}{%
+           family={Silverman},
+           familyi={S\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{a803334159d0d5978fcffefdd70c8ce1}
+      \strng{fullhash}{a803334159d0d5978fcffefdd70c8ce1}
+      \strng{bibnamehash}{a803334159d0d5978fcffefdd70c8ce1}
+      \strng{authorbibnamehash}{a803334159d0d5978fcffefdd70c8ce1}
+      \strng{authornamehash}{a803334159d0d5978fcffefdd70c8ce1}
+      \strng{authorfullhash}{a803334159d0d5978fcffefdd70c8ce1}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Linguistic sound systems necessarily possess contrastive values that are sufficiently distinct from one another that their individual characters may be learned by the listener. In this way, any given value in any given system fulfils its functional role of rendering forms distinct which differ in meaning. Articulatory, aerodynamic, acoustic and auditory constraints serve to mediate between such sound–meaning correspondences in non-trivial ways. Indeed, if it can be shown that the sound patterns of language are in part explainable by these physical systems, then students of linguistic sound systems would do well to study in detail the phonetic base. Consider an example case. Laryngeal gestures and supralaryngeal gestures are by and large articulatorily independent of each other. Thus, for example, a voiceless aspirated stop consists of an oral occlusion, cued by silence, as well as an articulatorily independent laryngeal abduction, cued by broadband noise. Were the phonetic realisation of these two gestures strictly simultaneous, the cues signalling the laryngeal abduction would not be perceived as such by the listener (*[ot]). A listener can tell that there is no voicing, but cannot recover more specific information regarding the state of the glottis during oral closure. Stated simply, the full closure here reduces the acoustic output to zero. With zero acoustic energy, no source information other than silence is transmitted to the listener. However, upon staggering the two gestures, the otherwise obscured information is rendered salient.}
+      \field{issn}{0952-6757, 1469-8188}
+      \field{journaltitle}{Phonology}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{number}{2}
+      \field{title}{Laryngeal Complexity in {{Otomanguean}} Vowels}
+      \field{volume}{14}
+      \field{year}{1997}
+      \field{pages}{235\bibrangedash 261}
+      \range{pages}{27}
+      \verb{doi}
+      \verb 10.1017/S0952675797003412
+      \endverb
+      \verb{file}
+      \verb /Users/mlbrinke/Zotero/storage/DFWR3CFB/silvermanLaryngealComplexityOtomanguean1997.pdf
+      \endverb
+      \keyw{Laryngeal Complexity,Otomanguean,Voice Quality}
+    \endentry
+    \entry{silvermanPhasingRecoverability1997}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a803334159d0d5978fcffefdd70c8ce1}{%
+           family={Silverman},
+           familyi={S\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Garland Pub}%
+      }
+      \strng{namehash}{a803334159d0d5978fcffefdd70c8ce1}
+      \strng{fullhash}{a803334159d0d5978fcffefdd70c8ce1}
+      \strng{bibnamehash}{a803334159d0d5978fcffefdd70c8ce1}
+      \strng{authorbibnamehash}{a803334159d0d5978fcffefdd70c8ce1}
+      \strng{authornamehash}{a803334159d0d5978fcffefdd70c8ce1}
+      \strng{authorfullhash}{a803334159d0d5978fcffefdd70c8ce1}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-8153-2876-6}
+      \field{series}{Outstanding Dissertations in Linguistics}
+      \field{title}{Phasing and Recoverability}
+      \field{year}{1997}
+      \verb{file}
+      \verb /Users/mlbrinke/Zotero/storage/3E7U3QM3/silvermanPhasingRecoverability1997.pdf
+      \endverb
+      \keyw{Laryngeal Complexity,Voice Quality}
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 

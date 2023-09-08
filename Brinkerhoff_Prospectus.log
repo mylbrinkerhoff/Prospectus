@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023)  (format=lualatex 2023.6.13)  24 AUG 2023 10:08
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023)  (format=lualatex 2023.6.13)  8 SEP 2023 09:36
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/Users/mlbrinke/Documents/1_Projects/Dissertation/Prospectus/Brinkerhoff_Prospectus.tex
@@ -1779,38 +1779,48 @@ Package hyperref Info: Link coloring ON on input line 114.
 \@outlinefile=\write6
 
 \openout6 = Brinkerhoff_Prospectus.out
+LaTeX Font Info:    Trying to load font information for U+msa on input line 142.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 142.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+wasy on input line 142.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/wasysym/uwasy.fd
+File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
+) [1{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
-
-LaTeX Warning: Empty bibliography on input line 177.
-
-[1{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
-
-] (./Brinkerhoff_Prospectus.aux)
+] [2]
+LaTeX Font Info:    Font shape `TU/LibertinusMono(0)/m/n' will be
+(Font)              scaled to size 10.40002pt on input line 260.
+ [3] [4] (./Brinkerhoff_Prospectus.aux)
  ***********
 LaTeX2e <2023-06-01>
 L3 programming layer <2020/03/25>
  ***********
 Package rerunfilecheck Info: File `Brinkerhoff_Prospectus.out' has not changed.
-(rerunfilecheck)             Checksum: E9BB0953B4593A3A5C43D02C6C18E578;767.
+(rerunfilecheck)             Checksum: DCC3DE27AB87ED9F1196659FFAC6FECC;611.
 Package logreq Info: Writing requests to 'Brinkerhoff_Prospectus.run.xml'.
 
 \openout1 = Brinkerhoff_Prospectus.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 59264 strings out of 478043
+ 59605 strings out of 478043
  125210,2373549 words of node,token memory allocated
- 784 words of node memory still in use:
-   9 hlist, 2 vlist, 2 rule, 5 glue, 4 kern, 1 glyph, 14 attribute, 97 glue_spec, 10 attribute_list, 2 write nodes
-   avail lists: 1:3,2:659,3:326,4:84,5:147,6:66,7:2701,9:333,10:3,11:228
- 78453 multiletter control sequences out of 65536+600000
- 49 fonts using 11214615 bytes
+ 805 words of node memory still in use:
+   9 hlist, 2 vlist, 2 rule, 6 glue, 4 kern, 1 glyph, 19 attribute, 97 glue_spec, 12 attribute_list, 2 write nodes
+   avail lists: 1:3,2:995,3:259,4:116,5:584,6:66,7:8047,8:41,9:370,10:6,11:698,12:1
+ 78770 multiletter control sequences out of 65536+600000
+ 97 fonts using 16032887 bytes
  108i,11n,119p,2320b,1763s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</Users/mlbrinke/Library/Fonts/LibertinusSerif-Regular.otf></Users/mlbrinke/Library/Fonts/LibertinusSerif-Bold.otf></Users/mlbrinke/Library/Fonts/LibertinusSerif-Italic.otf>
-Output written on Brinkerhoff_Prospectus.pdf (1 page, 18452 bytes).
+</Users/mlbrinke/Library/Fonts/LibertinusMono-Regular.otf></Users/mlbrinke/Library/Fonts/LibertinusSerif-Regular.otf></Users/mlbrinke/Library/Fonts/LibertinusSerif-Bold.otf></Users/mlbrinke/Library/Fonts/LibertinusSerif-Italic.otf>
+Output written on Brinkerhoff_Prospectus.pdf (4 pages, 33374 bytes).
 
-PDF statistics: 62 PDF objects out of 1000 (max. 8388607)
- 49 compressed objects within 1 object stream
- 14 named destinations out of 1000 (max. 131072)
+PDF statistics: 96 PDF objects out of 1000 (max. 8388607)
+ 77 compressed objects within 1 object stream
+ 23 named destinations out of 1000 (max. 131072)
  48 words of extra memory for PDF output out of 10000 (max. 100000000)
 
