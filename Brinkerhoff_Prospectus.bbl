@@ -34,8 +34,8 @@
            giveni={S\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=fd824eb4a332315b04505f4e2cd302ee}{%
-           family={{Pizarro-Guevara}},
-           familyi={P\bibinitperiod},
+           family={Pizarro-Guevara},
+           familyi={P\bibinithyphendelim G\bibinitperiod},
            given={Jed},
            giveni={J\bibinitperiod},
            givenun=0}}%
@@ -99,6 +99,7 @@
       \field{langid}{english}
       \field{title}{The Derivation of Verb Initiality in {{Santiago Laxopa Zapotec}}}
       \field{year}{2018}
+      \field{dateera}{ce}
       \field{pages}{31\bibrangedash 49}
       \range{pages}{19}
       \verb{file}
@@ -133,15 +134,17 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Zapotec languages are known for their complex tonal and phonation systems. Fieldwork in Santiago Laxopa Zapotec (SLZ), an undocumented language spoken in Oaxaca, Mexico, suggests the implementation of six tones (high, mid, low, high-falling, mid-falling and rising) and four phonation types (modal, creaky, checked and breathy). We report on the reliability of acoustic measures such as (H1-H2) and (H1-A1), which have previously been reported to characterize phonation types. Spectral measurements including H1, H2 (first and second harmonics), A1 (amplitude of F1) and A2 (amplitude of F2) are taken from vowels in near minimal pairs controlled for tones and quality. We also report on the relative implementation of tone and phonation. Silverman (1997) argues that languages with contrastive tone and phonation optimize the realization of laryngeal events such that non-modal vowels have a modal portion where the tonal event is implemented. We discuss if Silverman's predictions are borne out in SLZ.}
+      \field{abstract}{Zapotec languages are known for their complex tonal and phonation systems. Fieldwork in Santiago Laxopa Zapotec (SLZ), an undocumented language spoken in Oaxaca, Mexico, suggests the implementation of six tones (high, mid, low, high-falling, mid-falling and rising) and four phonation types (modal, creaky, checked and breathy). We report on the reliability of acoustic measures such as (H1-H2) and (H1-A1), which have previously been reported to characterize phonation types. Spectral measurements including H1, H2 (first and second harmonics), A1 (amplitude of F1) and A2 (amplitude of F2) are taken from vowels in near minimal pairs controlled for tones and quality. We also report on the relative implementation of tone and phonation. Silverman (1997) argues that languages with contrastive tone and phonation optimize the realization of laryngeal events such that non-modal vowels have a modal portion where the tonal event is implemented. We discuss if Silverman’s predictions are borne out in SLZ.}
       \field{issn}{0001-4966}
       \field{journaltitle}{The Journal of the Acoustical Society of America}
       \field{langid}{english}
       \field{month}{10}
       \field{number}{4}
+      \field{shortjournal}{The Journal of the Acoustical Society of America}
       \field{title}{Acoustics of Phonation Types and Tones in {{Santiago Laxopa Zapotec}}}
       \field{volume}{140}
       \field{year}{2016}
+      \field{dateera}{ce}
       \field{pages}{3109\bibrangedash 3109}
       \range{pages}{1}
       \verb{doi}
@@ -177,14 +180,55 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{langid}{spanish}
-      \field{shorttitle}{{El sistema fonológico y las propiedades fonéticas del zapoteco de San Pablo Güilá}}
-      \field{title}{{El sistema fonológico y las propiedades fonéticas del zapoteco de San Pablo Güilá: descripción y análisis formal}}
-      \field{type}{{Doctoral thesis}}
+      \field{shorttitle}{El sistema fonológico y las propiedades fonéticas del zapoteco de San Pablo Güilá}
+      \field{title}{El sistema fonológico y las propiedades fonéticas del zapoteco de San Pablo Güilá: descripción y análisis formal}
+      \field{type}{Doctoral thesis}
       \field{year}{2009}
+      \field{dateera}{ce}
       \verb{file}
       \verb /Users/mlbrinke/Zotero/storage/3IYUP85S/arellanesarellanesSistemaFonologicoPropiedades2009.pdf;/Users/mlbrinke/Zotero/storage/MUY9IVJM/ff365545q.html;/Users/mlbrinke/Zotero/storage/Z88FGETW/2581859370.html
       \endverb
       \keyw{\#nosource,Otomanguean,Zapotec}
+    \endentry
+    \entry{ariza-garciaPhonationTypesTones2018}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=74da72ebacc9805db380c3b6388acd11}{%
+           family={Ariza-García},
+           familyi={A\bibinithyphendelim G\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{74da72ebacc9805db380c3b6388acd11}
+      \strng{fullhash}{74da72ebacc9805db380c3b6388acd11}
+      \strng{bibnamehash}{74da72ebacc9805db380c3b6388acd11}
+      \strng{authorbibnamehash}{74da72ebacc9805db380c3b6388acd11}
+      \strng{authornamehash}{74da72ebacc9805db380c3b6388acd11}
+      \strng{authorfullhash}{74da72ebacc9805db380c3b6388acd11}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{23065737, 26584069}
+      \field{journaltitle}{Acta Linguistica Petropolitana}
+      \field{number}{2}
+      \field{shortjournal}{ALP}
+      \field{shorttitle}{Phonation Types and Tones in Zapotec Languages}
+      \field{title}{Phonation Types and Tones in {{Zapotec}} Languages: {{A}} Synchronic Comparison}
+      \field{volume}{XIV}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{pages}{485\bibrangedash 516}
+      \range{pages}{32}
+      \verb{doi}
+      \verb 10.30842/alp2306573714220
+      \endverb
+      \verb{file}
+      \verb /Users/mlbrinke/Zotero/storage/IWWH2ACV/ariza-garciaPhonationTypesTones2018.pdf
+      \endverb
+      \keyw{Otomanguean,Voice Quality,Zapotec}
     \endentry
     \entry{brinkerhoffDownstepSantiagoLaxopaMFM}{inproceedings}{}
       \name{author}{3}{}{%
@@ -223,8 +267,10 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Manchester {{Phonology Meeting}}}
+      \field{eventtitle}{Manchester {{Phonology Meeting}}}
       \field{title}{Downstep in {{Santiago Laxopa Zapotec}} and the Prosodic Typology of {{VSO}} Languages}
       \field{year}{2021}
+      \field{dateera}{ce}
       \keyw{\#nosource,Otomanguean,Zapotec}
     \endentry
     \entry{browmanNotesSyllableStructure1988}{article}{}
@@ -255,7 +301,8 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Abstract Two approaches to seeking stable patterns in the gestural organization of speech are examined: local organization (individual gestures coordinated with other individual gestures) and global organization (gestures forming larger conglomerates). Articulatory evidence from American English words with a variety of initial consonants and clusters shows that syllable-initial consonants form a global organization (indexed by a metric we term the C-center) that is coordinated with the syllable's vowel gesture. For syllable-final consonants, however, the evidence suggests that a local organization is employed: The first postvocalic consonant gesture is coordinated with the vowel gesture. Implications of these different styles of organization for the perceptual and phonological structure of speech are discussed.}
+      \field{abstract}{Abstract Two approaches to seeking stable patterns in the gestural organization of speech are examined: local organization (individual gestures coordinated with other individual gestures) and global organization (gestures forming larger conglomerates). Articulatory evidence from American English words with a variety of initial consonants and clusters shows that syllable-initial consonants form a global organization (indexed by a metric we term the C-center) that is coordinated with the syllable’s vowel gesture. For syllable-final consonants, however, the evidence suggests that a local organization is employed: The first postvocalic consonant gesture is coordinated with the vowel gesture. Implications of these different styles of organization for the perceptual and phonological structure of speech are discussed.}
+      \field{day}{1}
       \field{issn}{1423-0321, 0031-8388}
       \field{journaltitle}{Phonetica}
       \field{langid}{english}
@@ -264,6 +311,7 @@
       \field{title}{Some {{Notes}} on {{Syllable Structure}} in {{Articulatory Phonology}}}
       \field{volume}{45}
       \field{year}{1988}
+      \field{dateera}{ce}
       \field{pages}{140\bibrangedash 155}
       \range{pages}{16}
       \verb{doi}
@@ -314,6 +362,7 @@
       \field{title}{Articulatory Gestures as Phonological Units*}
       \field{volume}{6}
       \field{year}{1989}
+      \field{dateera}{ce}
       \field{pages}{201\bibrangedash 251}
       \range{pages}{51}
       \verb{doi}
@@ -351,7 +400,8 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Abstract An overview of the basic ideas of articulatory phonology is presented, along with selected examples of phonological patterning for which the approach seems to provide a particularly insightful account. In articulatory phonology, the basic units of phonological contrast are gestures , which are also abstract characterizations of articulatory events, each with an intrinsic time or duration. Utterances are modeled as organized patterns ( constellations ) of gestures, in which gestural units may overlap in time. The phonological structures defined in this way provide a set of articulatorily based natural classes. Moreover, the patterns of overlapping organization can be used to specify important aspects of the phonological structure of particular languages, and to account, in a coherent and general way, for a variety of different types of phonological variation. Such variation includes allophonic variation and fluent speech alternations, as well as `coarticulation' and speech errors. Finally, it is suggested that the gestural approach clarifies our understanding of phonological development, by positing that prelinguistic units of action are harnessed into (gestural) phonological structures through differentiation and coordination.}
+      \field{abstract}{Abstract An overview of the basic ideas of articulatory phonology is presented, along with selected examples of phonological patterning for which the approach seems to provide a particularly insightful account. In articulatory phonology, the basic units of phonological contrast are gestures , which are also abstract characterizations of articulatory events, each with an intrinsic time or duration. Utterances are modeled as organized patterns ( constellations ) of gestures, in which gestural units may overlap in time. The phonological structures defined in this way provide a set of articulatorily based natural classes. Moreover, the patterns of overlapping organization can be used to specify important aspects of the phonological structure of particular languages, and to account, in a coherent and general way, for a variety of different types of phonological variation. Such variation includes allophonic variation and fluent speech alternations, as well as ‘coarticulation’ and speech errors. Finally, it is suggested that the gestural approach clarifies our understanding of phonological development, by positing that prelinguistic units of action are harnessed into (gestural) phonological structures through differentiation and coordination.}
+      \field{day}{1}
       \field{issn}{1423-0321, 0031-8388}
       \field{journaltitle}{Phonetica}
       \field{langid}{english}
@@ -361,6 +411,7 @@
       \field{title}{Articulatory {{Phonology}}: {{An Overview}}}
       \field{volume}{49}
       \field{year}{1992}
+      \field{dateera}{ce}
       \field{pages}{155\bibrangedash 180}
       \range{pages}{26}
       \verb{doi}
@@ -400,7 +451,7 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{The measure H1–H2, the difference in amplitude between the first and second harmonics, is frequently used to distinguish phonation types and to characterize differences across voices and genders. While H1–H2 can differentiate voices and is used by listeners to perceive changes in voice quality, its relation to voice articulation is less straightforward. Its calculation also involves practical issues with error propagation. This paper highlights some developments in the use of H1–H2 and proposes a new measure that we call ``residual H1.'' In residual H1, the amplitude of the first harmonic is normalized against the overall sound energy (as measured by root mean square energy) instead of against H2. Residual H1 may mitigate some of the issues with using H1–H2. The current study tests the correlation between residual H1 and electroglottographic contact quotient (CQ) and compares the ability of residual H1 vs H1–H2 to differentiate statistically across phonation types in !Xóõ and utterance-level changes in phonatory quality in Mandarin. The results show that residual H1 has a stronger correlation with CQ and differentiates contrastive and allophonic phonatory quality better than H1–H2, particularly for more constricted phonation types.}
+      \field{abstract}{The measure H1–H2, the difference in amplitude between the first and second harmonics, is frequently used to distinguish phonation types and to characterize differences across voices and genders. While H1–H2 can differentiate voices and is used by listeners to perceive changes in voice quality, its relation to voice articulation is less straightforward. Its calculation also involves practical issues with error propagation. This paper highlights some developments in the use of H1–H2 and proposes a new measure that we call “residual H1.” In residual H1, the amplitude of the first harmonic is normalized against the overall sound energy (as measured by root mean square energy) instead of against H2. Residual H1 may mitigate some of the issues with using H1–H2. The current study tests the correlation between residual H1 and electroglottographic contact quotient (CQ) and compares the ability of residual H1 vs H1–H2 to differentiate statistically across phonation types in !Xóõ and utterance-level changes in phonatory quality in Mandarin. The results show that residual H1 has a stronger correlation with CQ and differentiates contrastive and allophonic phonatory quality better than H1–H2, particularly for more constricted phonation types.}
       \field{issn}{0001-4966}
       \field{journaltitle}{The Journal of the Acoustical Society of America}
       \field{month}{9}
@@ -408,6 +459,7 @@
       \field{title}{On {{H1}}–{{H2}} as an Acoustic Measure of Linguistic Phonation Type}
       \field{volume}{152}
       \field{year}{2022}
+      \field{dateera}{ce}
       \field{pages}{1856\bibrangedash 1870}
       \range{pages}{15}
       \verb{doi}
@@ -421,8 +473,8 @@
     \entry{fischer-jorgensenPhoneticAnalysisBreathy1968}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=5bdbf7486dd42b047bb8f3f971a70489}{%
-           family={{Fischer-J{ø}rgensen}},
-           familyi={F\bibinitperiod},
+           family={Fischer-Jørgensen},
+           familyi={F\bibinithyphendelim J\bibinitperiod},
            given={Eli},
            giveni={E\bibinitperiod},
            givenun=0}}%
@@ -440,6 +492,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{No abstract}
+      \field{day}{1}
       \field{issn}{2794-3224}
       \field{journaltitle}{Annual Report of the Institute of Phonetics University of Copenhagen}
       \field{langid}{english}
@@ -447,6 +500,7 @@
       \field{title}{Phonetic {{Analysis}} of {{Breathy}} ({{Murmured}}) {{Vowels}} in {{Gujarati}}}
       \field{volume}{2}
       \field{year}{1968}
+      \field{dateera}{ce}
       \field{pages}{35\bibrangedash 85}
       \range{pages}{51}
       \verb{doi}
@@ -538,6 +592,7 @@
       \field{langid}{english}
       \field{title}{Forbidden Clitic Clusters in {{Zapotec}}}
       \field{year}{2018}
+      \field{dateera}{ce}
       \field{pages}{87\bibrangedash 102}
       \range{pages}{16}
       \verb{file}
@@ -579,13 +634,16 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Characteristics of glottal vibration are affected by the obstruction to the flow of air through the vocal tract system. The obstruction to the airflow is determined by the nature, location, and extent of constriction in the vocal tract during production of voiced sounds. The effects of constriction on glottal vibration are examined for six different categories of speech sounds having varying degree of constriction. The effects are examined in terms of source and system features derived from the speech and electroglottograph signals. It is observed that a high degree of constriction causing obstruction to the flow of air results in large changes in these features, relative to the adjacent steady vowel regions, as in the case of apical trill and alveolar fricative sounds. These changes are insignificant when the obstruction to the airflow is less, as in the case of velar fricative and lateral approximant sounds. There are no changes in the excitation features when there is a free flow of air along the auxiliary tract, despite constriction in the vocal tract, as in the case of nasals. These studies show that effects of constriction can indeed be observed in the features of glottal vibration as well as vocal tract resonances.}
+      \field{day}{1}
       \field{issn}{0001-4966}
       \field{journaltitle}{The Journal of the Acoustical Society of America}
       \field{month}{10}
       \field{number}{4}
+      \field{shortjournal}{The Journal of the Acoustical Society of America}
       \field{title}{Study of the Effects of Vocal Tract Constriction on Glottal Vibration}
       \field{volume}{136}
       \field{year}{2014}
+      \field{dateera}{ce}
       \field{pages}{1932\bibrangedash 1941}
       \range{pages}{10}
       \verb{doi}
@@ -623,6 +681,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Epoch is the instant of significant excitation of the vocal-tract system during production of speech. For most voiced speech, the most significant excitation takes place around the instant of glottal closure. Extraction of epochs from speech is a challenging task due to time-varying characteristics of the source and the system. Most epoch extraction methods attempt to remove the characteristics of the vocal-tract system, in order to emphasize the excitation characteristics in the residual. The performance of such methods depends critically on our ability to model the system. In this paper, we propose a method for epoch extraction which does not depend critically on characteristics of the time-varying vocal-tract system. The method exploits the nature of impulse-like excitation. The proposed zero resonance frequency filter output brings out the epoch locations with high accuracy and reliability. The performance of the method is demonstrated using CMU-Arctic database using the epoch information from the electroglottograph as reference. The proposed method performs significantly better than the other methods currently available for epoch extraction. The interesting part of the results is that the epoch extraction by the proposed method seems to be robust against degradations like white noise, babble, high-frequency channel, and vehicle noise.}
+      \field{eventtitle}{{{IEEE Transactions}} on {{Audio}}, {{Speech}}, and {{Language Processing}}}
       \field{issn}{1558-7924}
       \field{journaltitle}{IEEE Transactions on Audio, Speech, and Language Processing}
       \field{month}{11}
@@ -630,6 +689,7 @@
       \field{title}{Epoch {{Extraction From Speech Signals}}}
       \field{volume}{16}
       \field{year}{2008}
+      \field{dateera}{ce}
       \field{pages}{1602\bibrangedash 1613}
       \range{pages}{12}
       \verb{doi}
@@ -639,15 +699,16 @@
       \verb /Users/mlbrinke/Zotero/storage/LHCEGKFN/murtyEpochExtractionSpeech2008.pdf;/Users/mlbrinke/Zotero/storage/THLCAFVT/4648930.html
       \endverb
     \endentry
-    \entry{SantiagoLaxopaEconomy}{misc}{}
+    \entry{SantiagoLaxopaEconomy}{online}{}
+      \list{organization}{1}{%
+        {Data México}%
+      }
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{url}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Explore statistics on the economy, employment, equity, quality of life, education, health and public safety at Santiago Laxopa}
-      \field{howpublished}{https://datamexico.org/en/profile/geo/santiago-laxopa}
-      \field{journaltitle}{Data México}
       \field{langid}{english}
       \field{shorttitle}{Santiago {{Laxopa}}}
       \field{title}{Santiago {{Laxopa}}: {{Economy}}, Employment, Equity, Quality of Life, Education, Health and Public Safety}
@@ -657,6 +718,12 @@
       \field{urldateera}{ce}
       \verb{file}
       \verb /Users/mlbrinke/Zotero/storage/NQAZG6DV/santiago-laxopa.html
+      \endverb
+      \verb{urlraw}
+      \verb https://datamexico.org/en/profile/geo/santiago-laxopa
+      \endverb
+      \verb{url}
+      \verb https://datamexico.org/en/profile/geo/santiago-laxopa
       \endverb
     \endentry
     \entry{shihAutosegmentalAimsSurfaceOptimizing2019}{article}{}
@@ -692,9 +759,11 @@
       \field{langid}{english}
       \field{month}{1}
       \field{number}{1}
+      \field{shortjournal}{Linguistic Inquiry}
       \field{title}{Autosegmental {{Aims}} in {{Surface-Optimizing Phonology}}}
       \field{volume}{50}
       \field{year}{2019}
+      \field{dateera}{ce}
       \field{pages}{137\bibrangedash 196}
       \range{pages}{60}
       \verb{doi}
@@ -731,11 +800,12 @@
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{We introduce a novel locality violation and its repair in Sierra Zapotec: an object pronoun cannot cliticize when the subject is a lexical DP. This locality effect differs from more familiar ones (e.g., superiority) because the lexical DP does not move. We argue that it is nonetheless able to Agree, consistent with the idea that locality conditions apply to Agree, rather than to a separate movement component. We develop an account in which pronouns and lexical DPs interact with the same probe because they share featural content. In particular, we suggest that the person domain extends to include non-pronominal DPs, so that all nominals are specified for a feature we call {$\delta$} (to resonate with DP); all and only personal pronouns are specified for {$\pi$}. This account requires a departure from Chomsky's (2000, 2001) classical system of featural co-variation (Agree). A functional head must be able to participate in overprobing, interacting with a goal even though its requirements would appear to be met. We introduce a probe activation model for Agree, in which, after applying once, the operation can but not need apply again. We also consider two other mechanisms recently proposed to derive overprobing —{} Deal's (2015, 2020) ``insatiable probes'' and Coon \& Keine's (to appear) ``feature gluttony'' —though neither is able to account for the locality pattern.}
+      \field{abstract}{We introduce a novel locality violation and its repair in Sierra Zapotec: an object pronoun cannot cliticize when the subject is a lexical DP. This locality effect differs from more familiar ones (e.g., superiority) because the lexical DP does not move. We argue that it is nonetheless able to Agree, consistent with the idea that locality conditions apply to Agree, rather than to a separate movement component. We develop an account in which pronouns and lexical DPs interact with the same probe because they share featural content. In particular, we suggest that the person domain extends to include non-pronominal DPs, so that all nominals are specified for a feature we call δ (to resonate with DP); all and only personal pronouns are specified for π. This account requires a departure from Chomsky’s (2000, 2001) classical system of featural co-variation (Agree). A functional head must be able to participate in overprobing, interacting with a goal even though its requirements would appear to be met. We introduce a probe activation model for Agree, in which, after applying once, the operation can but not need apply again. We also consider two other mechanisms recently proposed to derive overprobing — Deal’s (2015, 2020) “insatiable probes” and Coon \& Keine’s (to appear) “feature gluttony” —though neither is able to account for the locality pattern.}
+      \field{howpublished}{lingbuzz/005523}
       \field{langid}{english}
       \field{title}{The Featural Life of Nominals}
-      \field{type}{Lingbuzz/005523}
       \field{year}{2020}
+      \field{dateera}{ce}
       \verb{file}
       \verb /Users/mlbrinke/Zotero/storage/M6WYN6MK/sichelFeaturalLifeNominals2020.pdf
       \endverb
@@ -743,9 +813,9 @@
     \endentry
     \entry{silva-roblesElicitingAssociatedMotion2022}{article}{}
       \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=6657528601a3d8d1d9286b91fe6cf3b0}{%
-           family={{Silva-\-Robles}},
-           familyi={S\bibinitperiod},
+        {{un=0,uniquepart=base,hash=92ec2e164c89258b192261afc00400a9}{%
+           family={Silva-­Robles},
+           familyi={S\bibinithyphendelim ­\bibinitperiod},
            given={Fe},
            giveni={F\bibinitperiod},
            givenun=0}}%
@@ -768,20 +838,22 @@
            giveni={C\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{62de74e735e70f88f0dbeaa3865e9553}
-      \strng{fullhash}{7ffb53ec9a3292fce510d4582fd2a58c}
-      \strng{bibnamehash}{7ffb53ec9a3292fce510d4582fd2a58c}
-      \strng{authorbibnamehash}{7ffb53ec9a3292fce510d4582fd2a58c}
-      \strng{authornamehash}{62de74e735e70f88f0dbeaa3865e9553}
-      \strng{authorfullhash}{7ffb53ec9a3292fce510d4582fd2a58c}
+      \strng{namehash}{5c2b3a553ffff9d24f2aee4d6a6f146f}
+      \strng{fullhash}{2c08809e38f089e6ba6fef341cdc123e}
+      \strng{bibnamehash}{2c08809e38f089e6ba6fef341cdc123e}
+      \strng{authorbibnamehash}{2c08809e38f089e6ba6fef341cdc123e}
+      \strng{authornamehash}{5c2b3a553ffff9d24f2aee4d6a6f146f}
+      \strng{authorfullhash}{2c08809e38f089e6ba6fef341cdc123e}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{In associated motion constructions, verbal morphology adds a motion event to a main verb. The resulting construction can have complex interactions with verbal meaning that merit careful investigation in a fieldwork setting. In this paper, we describe our experiences as semanticists and language consultants exploring associated motion in two Zapotec languages: Dille' xhunh Laxup (Santiago Laxopa Zapotec) and Dizhsa (San Lucas Quiaviní Zapotec). We present an original storyboard and other materials used in our work, and reflect on our experiences at three different levels: (i) what we have learned about the semantics of associated motion constructions in these particular languages; (ii) what we have learned about eliciting associated motion constructions; and (iii) what we have learned about working together as fieldworkers and language experts.}
+      \field{abstract}{In associated motion constructions, verbal morphology adds a motion event to a main verb. The resulting construction can have complex interactions with verbal meaning that merit careful investigation in a fieldwork setting. In this paper, we describe our experiences as semanticists and language consultants exploring associated motion in two Zapotec languages: Dille’ xhunh Laxup (Santiago Laxopa Zapotec) and Dizhsa (San Lucas Quiaviní Zapotec). We present an original storyboard and other materials used in our work, and reflect on our experiences at three different levels: (i) what we have learned about the semantics of associated motion constructions in these particular languages; (ii) what we have learned about eliciting associated motion constructions; and (iii) what we have learned about working together as fieldworkers and language experts.}
+      \field{day}{14}
       \field{issn}{2562-9271}
+      \field{issue}{3}
       \field{journaltitle}{Semantic Fieldwork Methods}
       \field{langid}{english}
       \field{month}{7}
@@ -792,16 +864,22 @@
       \field{urlyear}{2022}
       \field{volume}{4}
       \field{year}{2022}
+      \field{dateera}{ce}
       \field{urldateera}{ce}
       \field{pages}{1\bibrangedash 51}
       \range{pages}{51}
       \verb{file}
       \verb /Users/mlbrinke/Zotero/storage/5GAV3FNN/silva-roblesElicitingAssociatedMotion2022.pdf
       \endverb
+      \verb{urlraw}
+      \verb https://ojs.library.ubc.ca/index.php/storyboards/article/view/195508
+      \endverb
+      \verb{url}
+      \verb https://ojs.library.ubc.ca/index.php/storyboards/article/view/195508
+      \endverb
       \keyw{Otomanguean,Zapotec}
     \endentry
   \enddatalist
-  \missing{garciaPhonationTypesTones2018}
 \endrefsection
 \endinput
 

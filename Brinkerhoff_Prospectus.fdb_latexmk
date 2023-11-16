@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber Brinkerhoff_Prospectus"] 1700160389 "Brinkerhoff_Prospectus.bcf" "Brinkerhoff_Prospectus.bbl" "Brinkerhoff_Prospectus" 1700160406 0
-  "./Library.bib" 1700070932 3106192 66c1a77514bae6d8f85ee92305a1ea88 ""
-  "Brinkerhoff_Prospectus.bcf" 1700160405 112818 19425044366396d388d57f9842d214b7 "lualatex"
+["biber Brinkerhoff_Prospectus"] 1700160750 "Brinkerhoff_Prospectus.bcf" "Brinkerhoff_Prospectus.bbl" "Brinkerhoff_Prospectus" 1700165252 0
+  "./Library.bib" 1700160637 3170481 fd34d593a15f14fa0cb7837c1e6f7881 ""
+  "Brinkerhoff_Prospectus.bcf" 1700165252 112824 3e9b0bab6ee2333f1fe0ed437e716db0 "lualatex"
   (generated)
   "Brinkerhoff_Prospectus.bbl"
   "Brinkerhoff_Prospectus.blg"
   (rewritten before read)
-["lualatex"] 1700160403 "/Users/mlbrinke/Documents/1_Projects/Dissertation/Prospectus/Brinkerhoff_Prospectus.tex" "Brinkerhoff_Prospectus.pdf" "Brinkerhoff_Prospectus" 1700160406 0
-  "/Users/mlbrinke/Documents/1_Projects/Dissertation/Prospectus/Brinkerhoff_Prospectus.tex" 1700160385 16879 8fbd68e9ec5499a754e0ac58fc558761 ""
+["lualatex"] 1700165247 "/Users/mlbrinke/Documents/1_Projects/Dissertation/Prospectus/Brinkerhoff_Prospectus.tex" "Brinkerhoff_Prospectus.pdf" "Brinkerhoff_Prospectus" 1700165252 0
+  "/Users/mlbrinke/Documents/1_Projects/Dissertation/Prospectus/Brinkerhoff_Prospectus.tex" 1700165238 16974 089ed427aeedb8ab740ef38e10b5aba7 ""
   "/Users/mlbrinke/Library/Fonts/LibertinusMono-Regular.otf" 1614349917 59028 4c8ec70339d1f4b934c8f8b4084ceb81 ""
   "/Users/mlbrinke/Library/Fonts/LibertinusSerif-Bold.otf" 1614349917 279844 c52f81dba362417093957f56a41c0339 ""
   "/Users/mlbrinke/Library/Fonts/LibertinusSerif-Italic.otf" 1614349917 318424 02c6a21a84c4648200ed8133332ccc7f ""
@@ -309,11 +309,11 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1700071184 4714027 87618d7f896f286b6b7c4cf67f54d550 ""
   "/usr/local/texlive/2023/texmf-var/tex/generic/config/language.dat" 1678822458 6627 dc320a7c13e00300e5a0f696ef4294be ""
   "/usr/local/texlive/2023/texmf-var/web2c/luahbtex/lualatex.fmt" 1700071236 12241184 8f6afd38fece218b115ae5f2d44f8bd3 ""
-  "Brinkerhoff_Prospectus.aux" 1700160405 6107 6e5c95e0151ff498fe9a07dcc52a64dd "lualatex"
-  "Brinkerhoff_Prospectus.bbl" 1700160399 45045 06912f8ad1f31d691df39fc3a153b70e "biber Brinkerhoff_Prospectus"
-  "Brinkerhoff_Prospectus.out" 1700160405 611 dcc3de27ab87ed9f1196659ffac6fecc "lualatex"
-  "Brinkerhoff_Prospectus.run.xml" 1700160405 2632 88070902d4f49d9557b4e8e15add726c "lualatex"
-  "Brinkerhoff_Prospectus.tex" 1700160385 16879 8fbd68e9ec5499a754e0ac58fc558761 ""
+  "Brinkerhoff_Prospectus.aux" 1700165252 5517 a19e7c675d6e843c0c7151de792dc35f "lualatex"
+  "Brinkerhoff_Prospectus.bbl" 1700160761 48000 372e742234c812a4d17c8f63b6d1edb4 "biber Brinkerhoff_Prospectus"
+  "Brinkerhoff_Prospectus.out" 1700165252 94 ede23595dca8a4392503813d74f4cd13 "lualatex"
+  "Brinkerhoff_Prospectus.run.xml" 1700165252 2632 88070902d4f49d9557b4e8e15add726c "lualatex"
+  "Brinkerhoff_Prospectus.tex" 1700165238 16974 089ed427aeedb8ab740ef38e10b5aba7 ""
   (generated)
   "Brinkerhoff_Prospectus.aux"
   "Brinkerhoff_Prospectus.bcf"
