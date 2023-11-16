@@ -2413,13 +2413,33 @@
   <!-- CITATION DATA -->
   <!-- SECTION 0 -->
   <bcf:bibdata section="0">
-    <bcf:datasource type="file" datatype="bibtex" glob="false">~/Library.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex" glob="false">Library.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">silvermanLaryngealComplexityOtomanguean1997</bcf:citekey>
-    <bcf:citekey order="1" intorder="2">silvermanPhasingRecoverability1997</bcf:citekey>
-    <bcf:citekey order="1" intorder="3">blankenshipTimeCourseBreathiness1997</bcf:citekey>
-    <bcf:citekey order="1" intorder="4">blankenshipTimingNonmodalPhonation2002</bcf:citekey>
+    <bcf:citekey order="1" intorder="1">adlerAcousticsPhonationTypes2016</bcf:citekey>
+    <bcf:citekey order="1" intorder="2">adlerDerivationVerbInitiality2018</bcf:citekey>
+    <bcf:citekey order="1" intorder="3">brinkerhoffDownstepSantiagoLaxopaMFM</bcf:citekey>
+    <bcf:citekey order="1" intorder="4">foleyForbiddenCliticClusters2018</bcf:citekey>
+    <bcf:citekey order="1" intorder="5">SantiagoLaxopaEconomy</bcf:citekey>
+    <bcf:citekey order="1" intorder="6">sichelFeaturalLifeNominals2020</bcf:citekey>
+    <bcf:citekey order="1" intorder="7">silva-roblesElicitingAssociatedMotion2022</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">adlerAcousticsPhonationTypes2016</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">adlerAcousticsPhonationTypes2016</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">adlerAcousticsPhonationTypes2016</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">fischer-jorgensenPhoneticAnalysisBreathy1968</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">adlerAcousticsPhonationTypes2016</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">adlerAcousticsPhonationTypes2016</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">murtyEpochExtractionSpeech2008</bcf:citekey>
+    <bcf:citekey order="8" intorder="2">mittalStudyEffectsVocal2014</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">chaiH1H2Acoustic2022</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">chaiH1H2Acoustic2022</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">arellanesarellanesSistemaFonologicoPropiedades2009</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">arellanesarellanesSistemaFonologicoPropiedades2009</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">shihAutosegmentalAimsSurfaceOptimizing2019</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">browmanNotesSyllableStructure1988</bcf:citekey>
+    <bcf:citekey order="14" intorder="2">browmanArticulatoryGesturesPhonological1989</bcf:citekey>
+    <bcf:citekey order="14" intorder="3">browmanArticulatoryPhonologyOverview1992</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">garciaPhonationTypesTones2018</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">

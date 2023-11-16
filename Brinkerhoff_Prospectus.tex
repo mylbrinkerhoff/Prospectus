@@ -1,4 +1,3 @@
-% !TEX TS-program = lualatex
 % !TEX encoding = UTF-8 Unicode
 
 \documentclass[12pt, letterpaper]{article}
@@ -13,7 +12,7 @@
             maxbibnames=99,
             natbib,
             url=false]{biblatex}
-\addbibresource{~/Library.bib}
+\addbibresource{Library.bib}
 \setcounter{biburlnumpenalty}{100}  % allow URL breaks at numbers
 %\setcounter{biburlucpenalty}{100}   % allow URL breaks at uppercase letters
 %\setcounter{biburllcpenalty}{100}   % allow URL breaks at lowercase letters
@@ -59,18 +58,18 @@
 
 %%PACKAGES FOR LINGUISTICS
 %\usepackage{OTtablx} %Generating tableaux with using TIPA
-\usepackage[noipa]{OTtablx} % Use this one generating tableaux without using TIPA
+% \usepackage[noipa]{OTtablx} % Use this one generating tableaux without using TIPA
 %\usepackage[notipa]{ot-tableau} % Another tableau drawing packing use for posters.
 % \usepackage{linguex} % Linguistic examples
 % \usepackage{langsci-linguex} % Linguistic examples
-\usepackage{langsci-gb4e} % Language Science Press' modification of gb4e
+% \usepackage{langsci-gb4e} % Language Science Press' modification of gb4e
 % \usepackage{langsci-avm} % Language Science Press' AVM package
-\usepackage{tikz} % Drawing Hasse diagrams
+% \usepackage{tikz} % Drawing Hasse diagrams
 % \usepackage{pst-asr} % Drawing autosegmental features
-\usepackage{pstricks} % required for pst-asr, OTtablx, pst-jtree.
+% \usepackage{pstricks} % required for pst-asr, OTtablx, pst-jtree.
 % \usepackage{pst-jtree} %Syntax tree draawing software
 % \usepackage{tikz-qtree} % Another syntax tree drawing software. Uses bracket notation.
-\usepackage[linguistics]{forest} % Another syntax tree drawing software. Uses bracket notation.
+% \usepackage[linguistics]{forest} % Another syntax tree drawing software. Uses bracket notation.
 % \usepackage{ling-macros} % Various linguistic macros. Does not work with linguex.
 % \usepackage{covington} % Another linguistic examples package.
 \usepackage{leipzig} % Offers support for Leipzig Glossing Rules
@@ -139,90 +138,100 @@
 \section{Introduction} \label{sec:Introduction}
 %------------------------------------
 
-My dissertation will be focused on the interactions between tone and voice quality in Santiago Laxopa Zapotec and their implications for the phonetic-phonology interface. Santiago Laxopa Zapotec is an Otomanguean language that allows for nearly all combinations of its five tones and four phonation types.\footnote{There are notable gaps between high tone and breathy voice and checked and falling tone.} 
+This dissertation will address how phonology and phonetics account for differences in voice quality. Primarily this will discussed with respect to the Santiago Laxopa Zapotec (SLZ), an Oto-Manguean language spoken by about 1000 speakers in the municipality of Santiago Laxopa, Ixtlán, Oaxaca, Mexico \citep{adlerAcousticsPhonationTypes2016,adlerDerivationVerbInitiality2018,brinkerhoffDownstepSantiagoLaxopaMFM,foleyForbiddenCliticClusters2018,SantiagoLaxopaEconomy,sichelFeaturalLifeNominals2020,silva-roblesElicitingAssociatedMotion2022}. 
 
-This dissertation will address this interaction by explaining why tone and voice quality is apparently so compatible in Otomanguean languages. Currently there is one account called the Laryngeal Complexity Hypothesis \citep{silvermanLaryngealComplexityOtomanguean1997,silvermanPhasingRecoverability1997,blankenshipTimeCourseBreathiness1997,blankenshipTimingNonmodalPhonation2002} which explains this in terms of phasing or timing of modal and non-modal phonation. This dissertation will reevaluate the Laryngeal Complexity Hypothesis in light of Santiago Laxopa Zapotec. 
+There are several questions that this dissertation will seek to address the first has to do with the phonetic realization of the four-way voice quality distinction found in SLZ's vocal inventory \citep{adlerAcousticsPhonationTypes2016}. These four voice qualities are: breathy, checked, modal and rearticulated. Preliminary investigations into these voice qualities by myself and \citet{adlerAcousticsPhonationTypes2016} has revealed some information about these vowels. Breathy vowels are realized with breathy phonation during any point of the vowel. Checked and rearticulated are both realized with creaky phonation but in different locations within the vowel (i.e., checked vowels have creakiness at the end while rearticulated vowels have creakiness in the middle). Modal vowels do not exhibit any atypical phonation. 
 
-Because SLZ appears to have a timing difference between the glottalized portion of the vowel in checked and laryngealized vowels, this dissertation will address how dynamic changes in voice quality are best represented in the phonology. This will be done by performing a Generalized Additive Mixed Model on data collected in 2022 to determine whether a timing difference actually exists. If this timing difference is factual then I will provide a phonological account of timing differences. 
+These preliminary studies also set out to show how these voice quality distinctions could be captured using well established spectral measures. Most notably spectral-tilt \citep{fischer-jorgensenPhoneticAnalysisBreathy1968}. \citet{adlerAcousticsPhonationTypes2016} showed that the four voice quality distinctions could be accounted for using spectral-tilt in their two subjects by the means of H1-A1 and H1-A3. However, recent work I have conducted on ten speakers of SLZ shows that spectral-tilt is not a very good measure for capturing the phonation contrasts. In fact none of the spectral-tilt measures were able to capture all of the differences. Instead I found that Strength of Excitation \citep{murtyEpochExtractionSpeech2008,mittalStudyEffectsVocal2014} was a better measure for capturing the voice quality contrasts in SLZ. This is in line with more recent work by \citet{chaiH1H2Acoustic2022} where they show and discuss how traditional spectral-tilt measures are not as robust as previously thought. These problems with traditional spectral-tilt measures lead them to create a new spectral-tilt measure Residual H1 which performs better in many regards than other measures. This dissertation will seek to explain why spectral-tilt measures fail to capture the contrasts in SLZ and the role that Strength of Excitation and other acoustic measures play in establishing and describing contrasts. 
 
-Because these different voice qualities are contrastive and there must be some fundamental difference in the phonology in addition to what we see in the phonetics. Additionally, this dissertation addresses why multiple voice qualities are so reliant on the same features. This will be answered by discussing the problems this posses for phonology (especially the difference between checked and laryngealized), how speakers distinguish between the different voice qualities both phonologically and phonetically. 
+All of this phonetic knowledge plays a critical role in describing how a phonologically distinct vowels are produced. However, another question is whether this phonetic knowledge has any bearing on phonological theories concerning voice quality. For example, does one phonological theory of voice quality better represent the Zapotec data than others?
+
+Additionally, the data and the nature of the contrast has some bearing on the question of underlying representations in phonology. In particular, how are these different voice quality qualities best represented in the mental lexicon of speakers? This is especially important when there are multiple phonation types that rely on the same type of physical realization but realize it in different portions of the vowel (e.g., checked vs. rearticulated). The data from SLZ suggests that this is an important aspect of the language. If it is believed that phonological representations correspond to phonetic realizations then these phonetic differences need to be represented in those phonological representations. \citet{arellanesarellanesSistemaFonologicoPropiedades2009} presents one solution for the Central Valley Zapotec language of San Pablo Güilá were these checked and rearticulated vowels are associated with strong or weak glottal stops. Another solution that might bear fruit is in the work from Q-theory's \textit{Q} segments which are further subdivided into three smaller \textit{q} ssegments \citep{shihAutosegmentalAimsSurfaceOptimizing2019} which can be treated as a formalization of Articulatory Phonology's onset, target, and offset gestures \citep{browmanNotesSyllableStructure1988, browmanArticulatoryGesturesPhonological1989, browmanArticulatoryPhonologyOverview1992}. It is also possible that a new theory of segmental representations needs to be created in order to capture what is occurring in the SLZ and the other Zapotecan languages where these voice quality distinctions are widespread \citep{garciaPhonationTypesTones2018}.
+
+% My dissertation will be focused on the interactions between tone and voice quality in Santiago Laxopa Zapotec and their implications for the phonetic-phonology interface. Santiago Laxopa Zapotec is an Otomanguean language that allows for nearly all combinations of its five tones and four phonation types.\footnote{There are notable gaps between high tone and breathy voice and checked and falling tone.} 
+
+% This dissertation will address this interaction by explaining why tone and voice quality is apparently so compatible in Otomanguean languages. Currently there is one account called the Laryngeal Complexity Hypothesis \citep{silvermanLaryngealComplexityOtomanguean1997,silvermanPhasingRecoverability1997,blankenshipTimeCourseBreathiness1997,blankenshipTimingNonmodalPhonation2002} which explains this in terms of phasing or timing of modal and non-modal phonation. This dissertation will reevaluate the Laryngeal Complexity Hypothesis in light of Santiago Laxopa Zapotec. 
+
+% Because SLZ appears to have a timing difference between the glottalized portion of the vowel in checked and laryngealized vowels, this dissertation will address how dynamic changes in voice quality are best represented in the phonology. This will be done by performing a Generalized Additive Mixed Model on data collected in 2022 to determine whether a timing difference actually exists. If this timing difference is factual then I will provide a phonological account of timing differences. 
+
+% Because these different voice qualities are contrastive and there must be some fundamental difference in the phonology in addition to what we see in the phonetics. Additionally, this dissertation addresses why multiple voice qualities are so reliant on the same features. This will be answered by discussing the problems this posses for phonology (especially the difference between checked and laryngealized), how speakers distinguish between the different voice qualities both phonologically and phonetically. 
 
 
 %------------------------------------
 \section{Outline and structure of dissertation} \label{sec:Outline}
 %------------------------------------
 
-I anticipate that the dissertation will contain the following information in the following chapters.
+% I anticipate that the dissertation will contain the following information in the following chapters.
 
-\begin{enumerate}
-    \item Introduction
-    \begin{itemize}
-        \item Overview of what tone, voice quality, and their interactions are
-        \item Introduce research questions and their importance
-        \item Provide roadmap for dissertation
-    \end{itemize}
-    \item Language Background
-    \begin{itemize}
-        \item Introduce the main language of study
-        \item A brief phonetic and phonological description of SLZ
-        \item Description of the tones
-        \item Description of the voice quality
-    \end{itemize}
-    \item Theoretical Background
-    \begin{itemize}
-        \item Discuss phonetics-phonology interface
-        \item Introduce and discuss Laryngeal Complexity Hypothesis
-        \item Talk about current ways of accounting for tone and voice quality 
-        \begin{itemize}
-            \item Autosegmental–metrical theory 
-            \item Phonological features
-        \end{itemize}
-        \item Current accounts for dealing with timing issues in phonology
-        \begin{itemize}
-            \item Gestural Phonology
-            \item Q-theory
-        \end{itemize}
-    \end{itemize}
-    \item Acoustic Study of Voice Quality in SLZ
-    \begin{itemize}
-        \item Production study of Voice Quality based on data Maya and I collected. 
-        \begin{itemize}
-            \item This is essentially parts of the QE that I have been expanding on over the summer. 
-        \end{itemize}
-        \item Perception study of Voice Quality
-        \begin{itemize}
-            \item This will give a more complete picture about the acoustics of voice quality and will help show what people are relying on when listening to these voice quality contrasts. 
-        \end{itemize}
-    \end{itemize}
-    \item Measuring Laryngeal Complexity
-    \begin{itemize}
-        \item Generalized Additive Mixed Model analysis on the phonation types. 
-		\begin{itemize}
-            \item What are GAMMs
-            \item Why use GAMMs?
-            \item Do this on f0 and the measures that seem reliable
-        \end{itemize}
-        \item Phasing is probably only important for checked and laryngealized vowels
-        \item What does this do for me?
-    \end{itemize}
-    \item The Phonological Structures of Voice Quality and Tone
-    \begin{itemize}
-        \item Develop a framework for explaining the timing differences that we observe
-        \item Develop a framework that accounts for the interaction of tone and voice quality
-    \end{itemize}
-    \item Implications
-    \begin{itemize}
-        \item Discuss the implications for my proposal to other languages
-        \item How does it account for voice quality and tone interactions in other systems
-        \begin{itemize}
-            \item Things like tone and voice quality being dependent on each other. 
-        \end{itemize}
-    \end{itemize}
-    \item Conclusion
-    \begin{itemize}
-        \item Summary of the dissertation, key take-aways, etc.
-    \end{itemize}
-\end{enumerate}
+% \begin{enumerate}
+%     \item Introduction
+%     \begin{itemize}
+%         \item Overview of what tone, voice quality, and their interactions are
+%         \item Introduce research questions and their importance
+%         \item Provide roadmap for dissertation
+%     \end{itemize}
+%     \item Language Background
+%     \begin{itemize}
+%         \item Introduce the main language of study
+%         \item A brief phonetic and phonological description of SLZ
+%         \item Description of the tones
+%         \item Description of the voice quality
+%     \end{itemize}
+%     \item Theoretical Background
+%     \begin{itemize}
+%         \item Discuss phonetics-phonology interface
+%         \item Introduce and discuss Laryngeal Complexity Hypothesis
+%         \item Talk about current ways of accounting for tone and voice quality 
+%         \begin{itemize}
+%             \item Autosegmental–metrical theory 
+%             \item Phonological features
+%         \end{itemize}
+%         \item Current accounts for dealing with timing issues in phonology
+%         \begin{itemize}
+%             \item Gestural Phonology
+%             \item Q-theory
+%         \end{itemize}
+%     \end{itemize}
+%     \item Acoustic Study of Voice Quality in SLZ
+%     \begin{itemize}
+%         \item Production study of Voice Quality based on data Maya and I collected. 
+%         \begin{itemize}
+%             \item This is essentially parts of the QE that I have been expanding on over the summer. 
+%         \end{itemize}
+%         \item Perception study of Voice Quality
+%         \begin{itemize}
+%             \item This will give a more complete picture about the acoustics of voice quality and will help show what people are relying on when listening to these voice quality contrasts. 
+%         \end{itemize}
+%     \end{itemize}
+%     \item Measuring Laryngeal Complexity
+%     \begin{itemize}
+%         \item Generalized Additive Mixed Model analysis on the phonation types. 
+% 		\begin{itemize}
+%             \item What are GAMMs
+%             \item Why use GAMMs?
+%             \item Do this on f0 and the measures that seem reliable
+%         \end{itemize}
+%         \item Phasing is probably only important for checked and laryngealized vowels
+%         \item What does this do for me?
+%     \end{itemize}
+%     \item The Phonological Structures of Voice Quality and Tone
+%     \begin{itemize}
+%         \item Develop a framework for explaining the timing differences that we observe
+%         \item Develop a framework that accounts for the interaction of tone and voice quality
+%     \end{itemize}
+%     \item Implications
+%     \begin{itemize}
+%         \item Discuss the implications for my proposal to other languages
+%         \item How does it account for voice quality and tone interactions in other systems
+%         \begin{itemize}
+%             \item Things like tone and voice quality being dependent on each other. 
+%         \end{itemize}
+%     \end{itemize}
+%     \item Conclusion
+%     \begin{itemize}
+%         \item Summary of the dissertation, key takeaway, etc.
+%     \end{itemize}
+% \end{enumerate}
 
 %------------------------------------
 \section{Timeline for dissertation} \label{sec:Timeline}
