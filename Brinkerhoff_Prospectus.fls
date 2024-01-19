@@ -2,7 +2,7 @@ PWD /Users/mlbrinke/Documents/1_Projects/Dissertation/Prospectus
 INPUT /usr/local/texlive/2023/texmf-var/web2c/luahbtex/lualatex.fmt
 INPUT /Users/mlbrinke/Documents/1_Projects/Dissertation/Prospectus/Brinkerhoff_Prospectus.tex
 OUTPUT Brinkerhoff_Prospectus.log
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/lualatexquotejobname.lua
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/tex-ini-files/lualatexquotejobname.lua
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/ltluatex.lua
 INPUT /usr/local/texlive/2023/texmf-dist/tex/luatex/luaotfload/luaotfload-main.lua
 INPUT /usr/local/texlive/2023/texmf-dist/tex/luatex/luaotfload/luaotfload.lua

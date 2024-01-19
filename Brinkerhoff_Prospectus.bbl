@@ -152,83 +152,42 @@
       \endverb
       \keyw{\#nosource,Otomanguean,Voice Quality,Zapotec}
     \endentry
-    \entry{arellanesarellanesSistemaFonologicoPropiedades2009}{thesis}{}
+    \entry{albrightIdentificationBasesMorphological2002}{thesis}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=005de02d10b6c03f7b45fc5ee19c34e7}{%
-           family={Arellanes\bibnamedelima Arellanes},
-           familyi={A\bibinitperiod\bibinitdelim A\bibinitperiod},
-           given={Francisco},
-           giveni={F\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{institution}{1}{%
-        {El Colegio de México}%
-      }
-      \list{location}{1}{%
-        {Mexico City, Mexico}%
-      }
-      \strng{namehash}{005de02d10b6c03f7b45fc5ee19c34e7}
-      \strng{fullhash}{005de02d10b6c03f7b45fc5ee19c34e7}
-      \strng{bibnamehash}{005de02d10b6c03f7b45fc5ee19c34e7}
-      \strng{authorbibnamehash}{005de02d10b6c03f7b45fc5ee19c34e7}
-      \strng{authornamehash}{005de02d10b6c03f7b45fc5ee19c34e7}
-      \strng{authorfullhash}{005de02d10b6c03f7b45fc5ee19c34e7}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{langid}{spanish}
-      \field{shorttitle}{El sistema fonológico y las propiedades fonéticas del zapoteco de San Pablo Güilá}
-      \field{title}{El sistema fonológico y las propiedades fonéticas del zapoteco de San Pablo Güilá: descripción y análisis formal}
-      \field{type}{Doctoral thesis}
-      \field{year}{2009}
-      \field{dateera}{ce}
-      \verb{file}
-      \verb /Users/mlbrinke/Zotero/storage/3IYUP85S/arellanesarellanesSistemaFonologicoPropiedades2009.pdf;/Users/mlbrinke/Zotero/storage/MUY9IVJM/ff365545q.html;/Users/mlbrinke/Zotero/storage/Z88FGETW/2581859370.html
-      \endverb
-      \keyw{\#nosource,Otomanguean,Zapotec}
-    \endentry
-    \entry{ariza-garciaPhonationTypesTones2018}{article}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=74da72ebacc9805db380c3b6388acd11}{%
-           family={Ariza-García},
-           familyi={A\bibinithyphendelim G\bibinitperiod},
-           given={Andrea},
+        {{un=0,uniquepart=base,hash=f7df5b7f140836b45f65ad5d80ff873b}{%
+           family={Albright},
+           familyi={A\bibinitperiod},
+           given={Adam},
            giveni={A\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{74da72ebacc9805db380c3b6388acd11}
-      \strng{fullhash}{74da72ebacc9805db380c3b6388acd11}
-      \strng{bibnamehash}{74da72ebacc9805db380c3b6388acd11}
-      \strng{authorbibnamehash}{74da72ebacc9805db380c3b6388acd11}
-      \strng{authornamehash}{74da72ebacc9805db380c3b6388acd11}
-      \strng{authorfullhash}{74da72ebacc9805db380c3b6388acd11}
+      \list{institution}{1}{%
+        {University of California, Los Angeles}%
+      }
+      \list{location}{1}{%
+        {Los Angeles, CA}%
+      }
+      \strng{namehash}{f7df5b7f140836b45f65ad5d80ff873b}
+      \strng{fullhash}{f7df5b7f140836b45f65ad5d80ff873b}
+      \strng{bibnamehash}{f7df5b7f140836b45f65ad5d80ff873b}
+      \strng{authorbibnamehash}{f7df5b7f140836b45f65ad5d80ff873b}
+      \strng{authornamehash}{f7df5b7f140836b45f65ad5d80ff873b}
+      \strng{authorfullhash}{f7df5b7f140836b45f65ad5d80ff873b}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{issn}{23065737, 26584069}
-      \field{journaltitle}{Acta Linguistica Petropolitana}
-      \field{number}{2}
-      \field{shortjournal}{ALP}
-      \field{shorttitle}{Phonation Types and Tones in Zapotec Languages}
-      \field{title}{Phonation Types and Tones in {{Zapotec}} Languages: {{A}} Synchronic Comparison}
-      \field{volume}{XIV}
-      \field{year}{2018}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{The {{Identiﬁcation}} of {{Bases}} in {{Morphological Paradigms}}}
+      \field{type}{phdthesis}
+      \field{year}{2002}
       \field{dateera}{ce}
-      \field{pages}{485\bibrangedash 516}
-      \range{pages}{32}
-      \verb{doi}
-      \verb 10.30842/alp2306573714220
-      \endverb
       \verb{file}
-      \verb /Users/mlbrinke/Zotero/storage/IWWH2ACV/ariza-garciaPhonationTypesTones2018.pdf
+      \verb /Users/mlbrinke/Zotero/storage/PRCK66KX/Albright - The Identiﬁcation of Bases in Morphological Paradi.pdf
       \endverb
-      \keyw{Otomanguean,Voice Quality,Zapotec}
+      \keyw{⛔ No DOI found}
     \endentry
     \entry{brinkerhoffDownstepSantiagoLaxopaMFM}{inproceedings}{}
       \name{author}{3}{}{%
@@ -273,153 +232,40 @@
       \field{dateera}{ce}
       \keyw{\#nosource,Otomanguean,Zapotec}
     \endentry
-    \entry{browmanNotesSyllableStructure1988}{article}{}
+    \entry{brinkerhoffResidualH1MeasureInPreparation}{unpublished}{}
       \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=91d375ff9a942e62b75365ba0173d5ec}{%
-           family={Browman},
+        {{un=0,uniquepart=base,hash=7c0d8fdf16e991bdf7a0fdd7d16085ff}{%
+           family={Brinkerhoff},
            familyi={B\bibinitperiod},
-           given={Catherine\bibnamedelima P.},
-           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Mykel\bibnamedelima Loren},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=6e9cecdcdfb2966119858e4a4c4eb119}{%
-           family={Goldstein},
-           familyi={G\bibinitperiod},
-           given={Louis},
-           giveni={L\bibinitperiod},
+        {{un=0,uniquepart=base,hash=588cb3f358044d62cf52bf996c566520}{%
+           family={McGuire},
+           familyi={M\bibinitperiod},
+           given={Grant},
+           giveni={G\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{c8931349305ef959a42465ef6b229ff6}
-      \strng{fullhash}{c8931349305ef959a42465ef6b229ff6}
-      \strng{bibnamehash}{c8931349305ef959a42465ef6b229ff6}
-      \strng{authorbibnamehash}{c8931349305ef959a42465ef6b229ff6}
-      \strng{authornamehash}{c8931349305ef959a42465ef6b229ff6}
-      \strng{authorfullhash}{c8931349305ef959a42465ef6b229ff6}
-      \field{extraname}{1}
+      \list{location}{1}{%
+        {Santa Cruz, CA}%
+      }
+      \strng{namehash}{e7c6e532fa3d5a4779c5a6954f936c2a}
+      \strng{fullhash}{e7c6e532fa3d5a4779c5a6954f936c2a}
+      \strng{bibnamehash}{e7c6e532fa3d5a4779c5a6954f936c2a}
+      \strng{authorbibnamehash}{e7c6e532fa3d5a4779c5a6954f936c2a}
+      \strng{authornamehash}{e7c6e532fa3d5a4779c5a6954f936c2a}
+      \strng{authorfullhash}{e7c6e532fa3d5a4779c5a6954f936c2a}
       \field{sortinit}{B}
       \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Abstract Two approaches to seeking stable patterns in the gestural organization of speech are examined: local organization (individual gestures coordinated with other individual gestures) and global organization (gestures forming larger conglomerates). Articulatory evidence from American English words with a variety of initial consonants and clusters shows that syllable-initial consonants form a global organization (indexed by a metric we term the C-center) that is coordinated with the syllable’s vowel gesture. For syllable-final consonants, however, the evidence suggests that a local organization is employed: The first postvocalic consonant gesture is coordinated with the vowel gesture. Implications of these different styles of organization for the perceptual and phonological structure of speech are discussed.}
-      \field{day}{1}
-      \field{issn}{1423-0321, 0031-8388}
-      \field{journaltitle}{Phonetica}
-      \field{langid}{english}
-      \field{month}{3}
-      \field{number}{2-4}
-      \field{title}{Some {{Notes}} on {{Syllable Structure}} in {{Articulatory Phonology}}}
-      \field{volume}{45}
-      \field{year}{1988}
-      \field{dateera}{ce}
-      \field{pages}{140\bibrangedash 155}
-      \range{pages}{16}
-      \verb{doi}
-      \verb 10.1159/000261823
-      \endverb
-      \verb{file}
-      \verb /Users/mlbrinke/Zotero/storage/TLMUT85P/browmanNotesSyllableStructure1988.pdf
-      \endverb
-      \keyw{Consonant Clusters}
-    \endentry
-    \entry{browmanArticulatoryGesturesPhonological1989}{article}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=91d375ff9a942e62b75365ba0173d5ec}{%
-           family={Browman},
-           familyi={B\bibinitperiod},
-           given={Catherine\bibnamedelima P.},
-           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=6e9cecdcdfb2966119858e4a4c4eb119}{%
-           family={Goldstein},
-           familyi={G\bibinitperiod},
-           given={Louis},
-           giveni={L\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Cambridge University Press}%
-      }
-      \strng{namehash}{c8931349305ef959a42465ef6b229ff6}
-      \strng{fullhash}{c8931349305ef959a42465ef6b229ff6}
-      \strng{bibnamehash}{c8931349305ef959a42465ef6b229ff6}
-      \strng{authorbibnamehash}{c8931349305ef959a42465ef6b229ff6}
-      \strng{authornamehash}{c8931349305ef959a42465ef6b229ff6}
-      \strng{authorfullhash}{c8931349305ef959a42465ef6b229ff6}
-      \field{extraname}{2}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{We have argued that dynamically defined articulatory gestures are the appropriate units to serve as the atoms of phonological representation. Gestures are a natural unit, not only because they involve task-oriented movements of the articulators, but because they arguably emerge as prelinguistic discrete units of action in infants. The use of gestures, rather than constellations of gestures as in Root nodes, as basic units of description makes it possible to characterise a variety of language patterns in which gestural organisation varies. Such patterns range from the misorderings of disordered speech through phonological rules involving gestural overlap and deletion to historical changes in which the overlap of gestures provides a crucial explanatory element.Gestures can participate in language patterns involving overlap because they are spatiotemporal in nature and therefore have internal duration. In addition, gestures differ from current theories of feature geometry by including the constriction degree as an inherent part of the gesture. Since the gestural constrictions occur in the vocal tract, which can be charactensed in terms of tube geometry, all the levels of the vocal tract will be constricted, leading to a constriction degree hierarchy. The values of the constriction degree at each higher level node in the hierarchy can be predicted on the basis of the percolation principles and tube geometry. In this way, the use of gestures as atoms can be reconciled with the use of Constriction degree at various levels in the vocal tract (or feature geometry) hierarchy.The phonological notation developed for the gestural approach might usefully be incorporated, in whole or in part, into other phonologies. Five components of the notation were discussed, all derived from the basic premise that gestures are the primitive phonological unit, organised into gestural scores. These components include (1) constriction degree as a subordinate of the articulator node and (2) stiffness (duration) as a subordinate of the articulator node. That is, both CD and duration are inherent to the gesture. The gestures are arranged in gestural scores using (3) articulatory tiers, with (4) the relevant geometry (articulatory, tube or feature) indicated to the left of the score and (5) structural information above the score, if desired. Association lines can also be used to indicate how the gestures are combined into phonological units. Thus, gestures can serve both as characterisations of articulatory movement data and as the atoms of phonological representation.}
-      \field{issn}{1469-8188, 0952-6757}
-      \field{journaltitle}{Phonology}
-      \field{langid}{english}
-      \field{month}{8}
-      \field{number}{2}
-      \field{title}{Articulatory Gestures as Phonological Units*}
-      \field{volume}{6}
-      \field{year}{1989}
-      \field{dateera}{ce}
-      \field{pages}{201\bibrangedash 251}
-      \range{pages}{51}
-      \verb{doi}
-      \verb 10.1017/S0952675700001019
-      \endverb
-      \verb{file}
-      \verb /Users/mlbrinke/Zotero/storage/H6PWUDMW/browmanArticulatoryGesturesPhonological1989.pdf;/Users/mlbrinke/Zotero/storage/D33TRLDL/17C721E71D13AF350A31665AB30B6410.html
-      \endverb
-    \endentry
-    \entry{browmanArticulatoryPhonologyOverview1992}{article}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=91d375ff9a942e62b75365ba0173d5ec}{%
-           family={Browman},
-           familyi={B\bibinitperiod},
-           given={Catherine\bibnamedelima P.},
-           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=6e9cecdcdfb2966119858e4a4c4eb119}{%
-           family={Goldstein},
-           familyi={G\bibinitperiod},
-           given={Louis},
-           giveni={L\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{c8931349305ef959a42465ef6b229ff6}
-      \strng{fullhash}{c8931349305ef959a42465ef6b229ff6}
-      \strng{bibnamehash}{c8931349305ef959a42465ef6b229ff6}
-      \strng{authorbibnamehash}{c8931349305ef959a42465ef6b229ff6}
-      \strng{authornamehash}{c8931349305ef959a42465ef6b229ff6}
-      \strng{authorfullhash}{c8931349305ef959a42465ef6b229ff6}
-      \field{extraname}{3}
-      \field{sortinit}{B}
-      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Abstract An overview of the basic ideas of articulatory phonology is presented, along with selected examples of phonological patterning for which the approach seems to provide a particularly insightful account. In articulatory phonology, the basic units of phonological contrast are gestures , which are also abstract characterizations of articulatory events, each with an intrinsic time or duration. Utterances are modeled as organized patterns ( constellations ) of gestures, in which gestural units may overlap in time. The phonological structures defined in this way provide a set of articulatorily based natural classes. Moreover, the patterns of overlapping organization can be used to specify important aspects of the phonological structure of particular languages, and to account, in a coherent and general way, for a variety of different types of phonological variation. Such variation includes allophonic variation and fluent speech alternations, as well as ‘coarticulation’ and speech errors. Finally, it is suggested that the gestural approach clarifies our understanding of phonological development, by positing that prelinguistic units of action are harnessed into (gestural) phonological structures through differentiation and coordination.}
-      \field{day}{1}
-      \field{issn}{1423-0321, 0031-8388}
-      \field{journaltitle}{Phonetica}
-      \field{langid}{english}
-      \field{month}{5}
-      \field{number}{3-4}
-      \field{shorttitle}{Articulatory {{Phonology}}}
-      \field{title}{Articulatory {{Phonology}}: {{An Overview}}}
-      \field{volume}{49}
-      \field{year}{1992}
-      \field{dateera}{ce}
-      \field{pages}{155\bibrangedash 180}
-      \range{pages}{26}
-      \verb{doi}
-      \verb 10.1159/000261913
-      \endverb
-      \verb{file}
-      \verb /Users/mlbrinke/Zotero/storage/VEDMYXUE/browmanArticulatoryPhonologyOverview1992.pdf
-      \endverb
+      \field{howpublished}{Manuscript}
+      \field{title}{On Residual {{H1}} as a Measure of Voice Quality}
+      \field{year}{In Preparation}
+      \keyw{/unread}
     \endentry
     \entry{chaiH1H2Acoustic2022}{article}{}
       \name{author}{2}{}{%
@@ -470,6 +316,182 @@
       \endverb
       \keyw{Voice Quality}
     \endentry
+    \entry{ernestusIntraparadigmaticEffectsPerception2007}{incollection}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=aef0d851cba0a5a92c62cc7e8c581d1b}{%
+           family={Ernestus},
+           familyi={E\bibinitperiod},
+           given={Mirjam},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=96e0df455ff331fa1c1b8dd005e0c6b6}{%
+           family={Baayen},
+           familyi={B\bibinitperiod},
+           given={R.\bibnamedelimi H.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{useprefix=true,hash=b5ac3ed307a4e217888eaa38db4178f8}{%
+           family={deWeijer},
+           familyi={d\bibinitperiod},
+           given={Jeroen},
+           giveni={J\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{useprefix=true,hash=5d4d6b5a7b0de5f60a61c47fb0a4a57f}{%
+           family={derTorre},
+           familyi={d\bibinitperiod},
+           given={Erik\bibnamedelima Jan},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam}%
+      }
+      \list{publisher}{1}{%
+        {John Benjamins Publishing Company}%
+      }
+      \strng{namehash}{3a1c970693a6e5b7c6f7b4d55550df8e}
+      \strng{fullhash}{3a1c970693a6e5b7c6f7b4d55550df8e}
+      \strng{bibnamehash}{3a1c970693a6e5b7c6f7b4d55550df8e}
+      \strng{authorbibnamehash}{3a1c970693a6e5b7c6f7b4d55550df8e}
+      \strng{authornamehash}{3a1c970693a6e5b7c6f7b4d55550df8e}
+      \strng{authorfullhash}{3a1c970693a6e5b7c6f7b4d55550df8e}
+      \strng{editorbibnamehash}{964944b93d626f7c90c9e198113e7025}
+      \strng{editornamehash}{964944b93d626f7c90c9e198113e7025}
+      \strng{editorfullhash}{964944b93d626f7c90c9e198113e7025}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Voicing in {{Dutch}}: ({{De}})Voicing Phonology, Phonetics, and Psycholinguistics}
+      \field{isbn}{978-90-272-4801-5 978-90-272-9203-2}
+      \field{langid}{english}
+      \field{number}{Current Issues in Linguistic Theory}
+      \field{title}{Intraparadigmatic Effects on the Perception of Voice}
+      \field{volume}{286}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \field{pages}{153\bibrangedash 174}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1075/cilt.286.07ern
+      \endverb
+      \verb{file}
+      \verb /Users/mlbrinke/Zotero/storage/IWXIMJ98/ernestusIntraparadigmaticEffectsPerception2007.pdf
+      \endverb
+    \endentry
+    \entry{eslingVoiceQualityLaryngeal2019}{book}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=082cefbe699f8f788561da9b0c5bf06b}{%
+           family={Esling},
+           familyi={E\bibinitperiod},
+           given={John\bibnamedelima H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c9796751a0e358010abfeb9004a1725a}{%
+           family={Moisik},
+           familyi={M\bibinitperiod},
+           given={Scott\bibnamedelima R.},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57eee65b5fce14421b9dd9a9ec5ffee5}{%
+           family={Benner},
+           familyi={B\bibinitperiod},
+           given={Allison},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2e037d06ebedc505c9d1f923fbe51522}{%
+           family={Crevier-Buchman},
+           familyi={C\bibinithyphendelim B\bibinitperiod},
+           given={Lise},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{b07f8dd27f03c1058c1c0f1d1dd5d794}
+      \strng{fullhash}{47c56ea3ad084e0f764faf8b3f62bcb8}
+      \strng{bibnamehash}{47c56ea3ad084e0f764faf8b3f62bcb8}
+      \strng{authorbibnamehash}{47c56ea3ad084e0f764faf8b3f62bcb8}
+      \strng{authornamehash}{b07f8dd27f03c1058c1c0f1d1dd5d794}
+      \strng{authorfullhash}{47c56ea3ad084e0f764faf8b3f62bcb8}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The first phonetic description of voice quality production in 40 years, this book provides a new framework for its analysis: The Laryngeal Articulator Model. Informed by instrumental examinations of the laryngeal articulatory mechanism, it revises our understanding of articulatory postures to explain the actions, vibrations and resonances generated in the epilarynx and pharynx. It focuses on the long-term auditory-articulatory component of accent in the languages of the world, explaining how voice quality relates to segmental and syllabic sounds. Phonetic illustrations of phonation types and of laryngeal and oral vocal tract articulatory postures are provided. Extensive video and audio material is available on a companion website. The book presents computational simulations, the laryngeal and voice quality foundations of infant speech acquisition, speech/voice disorders and surgeries that entail compensatory laryngeal articulator adjustment, and an exploration of the role of voice quality in sound change and of the larynx in the evolution of speech.}
+      \field{day}{20}
+      \field{edition}{1}
+      \field{isbn}{978-1-108-69655-5 978-1-108-49842-5 978-1-108-73603-9}
+      \field{month}{6}
+      \field{number}{162}
+      \field{series}{Cambridge {{Studies}} in {{Linguistics}}}
+      \field{shorttitle}{Voice {{Quality}}}
+      \field{title}{Voice {{Quality}}: {{The Laryngeal Articulator Model}}}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1017/9781108696555
+      \endverb
+      \verb{file}
+      \verb /Users/mlbrinke/Zotero/storage/9JGUXEKQ/eslingVoiceQualityLaryngeal2019.pdf
+      \endverb
+      \keyw{Voice Quality}
+    \endentry
+    \entry{espositoCrossLinguisticPatterns2020}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8302fa658b038a406c26db0f6760e735}{%
+           family={Esposito},
+           familyi={E\bibinitperiod},
+           given={Christina\bibnamedelima M.},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1e278f071c6b1958dea181d4413c7e40}{%
+           family={Khan},
+           familyi={K\bibinitperiod},
+           given={Sameer\bibnamedelimb ud\bibnamedelima Dowla},
+           giveni={S\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4f2af2bb0ab93576c18909519b9035e8}
+      \strng{fullhash}{4f2af2bb0ab93576c18909519b9035e8}
+      \strng{bibnamehash}{4f2af2bb0ab93576c18909519b9035e8}
+      \strng{authorbibnamehash}{4f2af2bb0ab93576c18909519b9035e8}
+      \strng{authornamehash}{4f2af2bb0ab93576c18909519b9035e8}
+      \strng{authorfullhash}{4f2af2bb0ab93576c18909519b9035e8}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We provide an update on the state of research on phonation (the production of sound by the vocal folds) since Gordon and Ladefoged's, Journal of Phonetics, 2001 29, 383–406 overview, focusing on the acoustics of breathiness, creak, and other linguistic voice qualities. We highlight cross-linguistic variation, introduce measuring techniques, and discuss the relationship between phonation and other phonological dimensions (e.g., tone, vowel quality). We also review perceptual literature, an area of phonation research that has greatly expanded recently. Taken together, the studies reviewed demonstrate that phonation types indeed lie not just on a single continuum, but in a multidimensional space.}
+      \field{issn}{1749-818X, 1749-818X}
+      \field{journaltitle}{Language and Linguistics Compass}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{12}
+      \field{shortjournal}{Lang Linguist Compass}
+      \field{title}{The Cross‐linguistic Patterns of Phonation Types}
+      \field{volume}{14}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1111/lnc3.12392
+      \endverb
+      \verb{file}
+      \verb /Users/mlbrinke/Zotero/storage/J5RF2VLC/espositoCrossLinguisticPatterns2020.pdf;/Users/mlbrinke/Zotero/storage/KFHA7PT5/espositoCrosslinguisticPatternsPhonation2020.pdf
+      \endverb
+      \keyw{/unread,Voice Quality}
+    \endentry
     \entry{fischer-jorgensenPhoneticAnalysisBreathy1968}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=5bdbf7486dd42b047bb8f3f971a70489}{%
@@ -508,6 +530,50 @@
       \endverb
       \verb{file}
       \verb /Users/mlbrinke/Zotero/storage/FYES9HMD/fischer-jorgensenPhoneticAnalysisBreathy1968.pdf
+      \endverb
+      \keyw{Voice Quality}
+    \endentry
+    \entry{flemmingScalarCategoricalPhenomena2001}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4f948c6b071779bc84a40ff59d97dd9c}{%
+           family={Flemming},
+           familyi={F\bibinitperiod},
+           given={Edward},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{4f948c6b071779bc84a40ff59d97dd9c}
+      \strng{fullhash}{4f948c6b071779bc84a40ff59d97dd9c}
+      \strng{bibnamehash}{4f948c6b071779bc84a40ff59d97dd9c}
+      \strng{authorbibnamehash}{4f948c6b071779bc84a40ff59d97dd9c}
+      \strng{authornamehash}{4f948c6b071779bc84a40ff59d97dd9c}
+      \strng{authorfullhash}{4f948c6b071779bc84a40ff59d97dd9c}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{It is often assumed that there is a sharp division between phonetic and phonological processes, but the two are often strikingly similar, as in the case of phonetic consonant–vowel coarticulation and phonological assimilation between consonants and vowels. Parallels of this kind are best accounted for if both types of phenomena are analysed within a unified framework, so similarities result from the fact that both phonetic and phonological processes are subject to the same constraints. A unified model of phonetics and phonology is developed and exemplified through the analysis of parallel phonetic and phonological assimilation processes. The model operates in terms of scalar phonetic representations to accommodate phonetic detail, but categorical phenomena can still be derived from the interaction of speech production constraints with constraints that motivate the formation of distinct categories of sounds for the purposes of linguistic contrast.}
+      \field{issn}{1469-8188, 0952-6757}
+      \field{journaltitle}{Phonology}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{number}{1}
+      \field{title}{Scalar and Categorical Phenomena in a Unified Model of Phonetics and Phonology}
+      \field{volume}{18}
+      \field{year}{2001}
+      \field{dateera}{ce}
+      \field{pages}{7\bibrangedash 44}
+      \range{pages}{38}
+      \verb{doi}
+      \verb 10.1017/S0952675701004006
+      \endverb
+      \verb{file}
+      \verb /Users/mlbrinke/Zotero/storage/7YMS7HZJ/flemmingScalarCategoricalPhenomena2001.pdf;/Users/mlbrinke/Zotero/storage/JITK36LY/7604DF73D8BB530DBB20348B4800FFFD.html
       \endverb
     \endentry
     \entry{foleyForbiddenCliticClusters2018}{inproceedings}{}
@@ -599,6 +665,45 @@
       \verb /Users/mlbrinke/Zotero/storage/NDCLHVHZ/foleyForbiddenCliticClusters2018.pdf
       \endverb
       \keyw{Otomanguean,Zapotec}
+    \endentry
+    \entry{mascaroExternalAllomorphyLexical2007}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b50c04f50ddf8aeaa8250ca61cdb4c46}{%
+           family={Mascaró},
+           familyi={M\bibinitperiod},
+           given={Joan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b50c04f50ddf8aeaa8250ca61cdb4c46}
+      \strng{fullhash}{b50c04f50ddf8aeaa8250ca61cdb4c46}
+      \strng{bibnamehash}{b50c04f50ddf8aeaa8250ca61cdb4c46}
+      \strng{authorbibnamehash}{b50c04f50ddf8aeaa8250ca61cdb4c46}
+      \strng{authornamehash}{b50c04f50ddf8aeaa8250ca61cdb4c46}
+      \strng{authorfullhash}{b50c04f50ddf8aeaa8250ca61cdb4c46}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Many cases of allomorphic alternation are restricted to specific lexical items but at the same time show a regular phonological distribution. Standard approaches cannot deal with these cases because they must either resort to diacritic features or list regular phonological contexts as idiosyncratic. These problems can be overcome if we assume that allomorphs are lexically organized as a partially ordered set. If no ordering is established, allomorphic choice is determined by the phonology—in particular, by the emergence of the unmarked (TETU). In other cases, TETU effects are insufficient, and lexical ordering determines the preference for dominant allomorphs.}
+      \field{issn}{0024-3892}
+      \field{journaltitle}{Linguistic Inquiry}
+      \field{month}{10}
+      \field{number}{4}
+      \field{title}{External {{Allomorphy}} and {{Lexical Representation}}}
+      \field{volume}{38}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \field{pages}{715\bibrangedash 735}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1162/ling.2007.38.4.715
+      \endverb
+      \verb{file}
+      \verb /Users/mlbrinke/Zotero/storage/8FMLUPZC/mascaroExternalAllomorphyLexical2007.pdf
+      \endverb
     \endentry
     \entry{mittalStudyEffectsVocal2014}{article}{}
       \name{author}{3}{}{%
@@ -699,6 +804,41 @@
       \verb /Users/mlbrinke/Zotero/storage/LHCEGKFN/murtyEpochExtractionSpeech2008.pdf;/Users/mlbrinke/Zotero/storage/THLCAFVT/4648930.html
       \endverb
     \endentry
+    \entry{reissSubstanceFreePhonology2017}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7df1d010f4f6a8db8c3a27926d4f90c0}{%
+           family={Reiss},
+           familyi={R\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{7df1d010f4f6a8db8c3a27926d4f90c0}
+      \strng{fullhash}{7df1d010f4f6a8db8c3a27926d4f90c0}
+      \strng{bibnamehash}{7df1d010f4f6a8db8c3a27926d4f90c0}
+      \strng{authorbibnamehash}{7df1d010f4f6a8db8c3a27926d4f90c0}
+      \strng{authornamehash}{7df1d010f4f6a8db8c3a27926d4f90c0}
+      \strng{authorfullhash}{7df1d010f4f6a8db8c3a27926d4f90c0}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This chapter provides some positive examples of recent research in Substance Free phonology (SFP). It clarifies several issues that surround the use of the 'substance' in phonology, especially in the phrase 'SFP'. In Optimality Theory (OT) the evaluation of candidates via the Eval function proceeds without regard to the content of the constraints. Only the ranking of constraints and the relationship of an input form to the candidate forms play a role in applying Eval. This part of the model is substance free. OT and other approaches to phonology assume that phonotactic patterns must be accounted for by the phonological grammar. SFP accepts the existence of innate substantive universals, but it does not have to accept all versions of innate representational schema for features. One version that is particularly odious to the SFP perspective is Feature Geometric models that mimic the structure of the vocal tract with the effect of sneaking substance back into the computational system.}
+      \field{booktitle}{The {{Routledge Handbook}} of {{Phonological Theory}}}
+      \field{isbn}{978-1-315-67542-8}
+      \field{pagetotal}{28}
+      \field{title}{Substance {{Free}} Phonology}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb /Users/mlbrinke/Zotero/storage/YPR5SGWP/reissSubstanceFreePhonology2017.pdf
+      \endverb
+    \endentry
     \entry{SantiagoLaxopaEconomy}{online}{}
       \list{organization}{1}{%
         {Data México}%
@@ -724,53 +864,6 @@
       \endverb
       \verb{url}
       \verb https://datamexico.org/en/profile/geo/santiago-laxopa
-      \endverb
-    \endentry
-    \entry{shihAutosegmentalAimsSurfaceOptimizing2019}{article}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=6dcf69f125f9709772febd1abba85bbc}{%
-           family={Shih},
-           familyi={S\bibinitperiod},
-           given={Stephanie\bibnamedelima S},
-           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=fc7750944f2f020b763caaf8f9834d49}{%
-           family={Inkelas},
-           familyi={I\bibinitperiod},
-           given={Sharon},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-      }
-      \strng{namehash}{2db7e9851b7929444b3d9ad713856c49}
-      \strng{fullhash}{2db7e9851b7929444b3d9ad713856c49}
-      \strng{bibnamehash}{2db7e9851b7929444b3d9ad713856c49}
-      \strng{authorbibnamehash}{2db7e9851b7929444b3d9ad713856c49}
-      \strng{authornamehash}{2db7e9851b7929444b3d9ad713856c49}
-      \strng{authorfullhash}{2db7e9851b7929444b3d9ad713856c49}
-      \field{sortinit}{S}
-      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{We develop a novel optimization approach to tone. Its grammatical component consists of the similarity- and proximity-based correspondence constraint framework of Agreement by Correspondence theory (ABC). Its representational component, Q Theory, decomposes segments (Q) into temporally ordered, quantized subsegments (q), which comprise unitary sets of distinctive features, including tone. ABCםQ unites phonological alternations and static lexical patterns, as we illustrate with a programmatic survey of core tonal phenomena: assimilation, dissimilation, lexical tone melodies, and consonant-tone interaction. ABCםQ surmounts long-standing problems for autosegmentalera, multitiered representational approaches to tone, and unites tonal and segmental phonology under the modern umbrella of correspondence theory.}
-      \field{issn}{0024-3892, 1530-9150}
-      \field{journaltitle}{Linguistic Inquiry}
-      \field{langid}{english}
-      \field{month}{1}
-      \field{number}{1}
-      \field{shortjournal}{Linguistic Inquiry}
-      \field{title}{Autosegmental {{Aims}} in {{Surface-Optimizing Phonology}}}
-      \field{volume}{50}
-      \field{year}{2019}
-      \field{dateera}{ce}
-      \field{pages}{137\bibrangedash 196}
-      \range{pages}{60}
-      \verb{doi}
-      \verb 10.1162/ling_a_00304
-      \endverb
-      \verb{file}
-      \verb /Users/mlbrinke/Zotero/storage/SCRLTAFH/shihAutosegmentalAimsSurfaceOptimizing2019.pdf
       \endverb
     \endentry
     \entry{sichelFeaturalLifeNominals2020}{unpublished}{}
@@ -878,6 +971,95 @@
       \verb https://ojs.library.ubc.ca/index.php/storyboards/article/view/195508
       \endverb
       \keyw{Otomanguean,Zapotec}
+    \endentry
+    \entry{zhangCauseeffectRelationshipVocal2016}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=764c62c9583b2946e3532305a9cfc4cf}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Zhaoyan},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Acoustical Society of America}%
+      }
+      \strng{namehash}{764c62c9583b2946e3532305a9cfc4cf}
+      \strng{fullhash}{764c62c9583b2946e3532305a9cfc4cf}
+      \strng{bibnamehash}{764c62c9583b2946e3532305a9cfc4cf}
+      \strng{authorbibnamehash}{764c62c9583b2946e3532305a9cfc4cf}
+      \strng{authornamehash}{764c62c9583b2946e3532305a9cfc4cf}
+      \strng{authorfullhash}{764c62c9583b2946e3532305a9cfc4cf}
+      \field{extraname}{1}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The goal of this study is to better understand the cause-effect relation between vocal fold physiology and the resulting vibration pattern and voice acoustics. Using a three-dimensional continuum model of phonation, the effects of changes in vocal fold stiffness, medial surface thickness in the vertical direction, resting glottal opening, and subglottal pressure on vocal fold vibration and different acoustic measures are investigated. The results show that the medial surface thickness has dominant effects on the vertical phase difference between the upper and lower margins of the medial surface, closed quotient, H1-H2, and higher-order harmonics excitation. The main effects of vocal fold approximation or decreasing resting glottal opening are to lower the phonation threshold pressure, reduce noise production, and increase the fundamental frequency. Increasing subglottal pressure is primarily responsible for vocal intensity increase but also leads to significant increase in noise production and an increased fundamental frequency. Increasing AP stiffness significantly increases the fundamental frequency and slightly reduces noise production. The interaction among vocal fold thickness, stiffness, approximation, and subglottal pressure in the control of F0, vocal intensity, and voice quality is discussed.}
+      \field{issn}{0001-4966}
+      \field{journaltitle}{The Journal of the Acoustical Society of America}
+      \field{month}{4}
+      \field{number}{4}
+      \field{title}{Cause-Effect Relationship between Vocal Fold Physiology and Voice Production in a Three-Dimensional Phonation Model}
+      \field{volume}{139}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{pages}{1493\bibrangedash 1507}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1121/1.4944754
+      \endverb
+      \verb{file}
+      \verb /Users/mlbrinke/Zotero/storage/JGL8TGTK/zhangCauseeffectRelationshipVocal2016.pdf
+      \endverb
+      \keyw{Voice Quality}
+    \endentry
+    \entry{zhangMechanicsHumanVoice2016}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=764c62c9583b2946e3532305a9cfc4cf}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Zhaoyan},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Acoustical Society of America}%
+      }
+      \strng{namehash}{764c62c9583b2946e3532305a9cfc4cf}
+      \strng{fullhash}{764c62c9583b2946e3532305a9cfc4cf}
+      \strng{bibnamehash}{764c62c9583b2946e3532305a9cfc4cf}
+      \strng{authorbibnamehash}{764c62c9583b2946e3532305a9cfc4cf}
+      \strng{authornamehash}{764c62c9583b2946e3532305a9cfc4cf}
+      \strng{authorfullhash}{764c62c9583b2946e3532305a9cfc4cf}
+      \field{extraname}{2}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{As the primary means of communication, voice plays an important role in daily life. Voice also conveys personal information such as social status, personal traits, and the emotional state of the speaker. Mechanically, voice production involves complex fluid-structure interaction within the glottis and its control by laryngeal muscle activation. An important goal of voice research is to establish a causal theory linking voice physiology and biomechanics to how speakers use and control voice to communicate meaning and personal information. Establishing such a causal theory has important implications for clinical voice management, voice training, and many speech technology applications. This paper provides a review of voice physiology and biomechanics, the physics of vocal fold vibration and sound production, and laryngeal muscular control of the fundamental frequency of voice, vocal intensity, and voice quality. Current efforts to develop mechanical and computational models of voice production are also critically reviewed. Finally, issues and future challenges in developing a causal theory of voice production and perception are discussed.}
+      \field{issn}{0001-4966}
+      \field{journaltitle}{The Journal of the Acoustical Society of America}
+      \field{month}{10}
+      \field{number}{4}
+      \field{title}{Mechanics of Human Voice Production and Control}
+      \field{volume}{140}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{pages}{2614\bibrangedash 2635}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1121/1.4964509
+      \endverb
+      \verb{file}
+      \verb /Users/mlbrinke/Zotero/storage/NYANMGFV/zhangMechanicsHumanVoice2016.pdf
+      \endverb
     \endentry
   \enddatalist
 \endrefsection

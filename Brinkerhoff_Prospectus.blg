@@ -1,19 +1,22 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'Brinkerhoff_Prospectus.blg'
-[39] biber-darwin:340> INFO - === Thu Nov 16, 2023, 10:52:32
-[50] Biber.pm:419> INFO - Reading 'Brinkerhoff_Prospectus.bcf'
-[100] Biber.pm:979> INFO - Found 17 citekeys in bib section 0
-[110] Biber.pm:4419> INFO - Processing section 0
-[116] Biber.pm:4610> INFO - Looking for bibtex file 'Library.bib' for section 0
+[40] biber-darwin:340> INFO - === Fri Jan 19, 2024, 11:08:57
+[51] Biber.pm:419> INFO - Reading 'Brinkerhoff_Prospectus.bcf'
+[100] Biber.pm:979> INFO - Found 21 citekeys in bib section 0
+[108] Biber.pm:4419> INFO - Processing section 0
+[116] Biber.pm:4610> INFO - Looking for bibtex file 'Prospectus.bib' for section 0
 [300] bibtex.pm:1713> INFO - LaTeX decoding ...
-[8038] bibtex.pm:1519> INFO - Found BibTeX data source 'Library.bib'
-[8283] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[8284] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[8284] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
-[8284] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[8297] bbl.pm:660> INFO - Writing 'Brinkerhoff_Prospectus.bbl' with encoding 'UTF-8'
-[8307] bbl.pm:763> INFO - Output to Brinkerhoff_Prospectus.bbl
-[8308] Biber.pm:131> WARN - Entry alias 'hannahsRoutledgeHandbookPhonological2018a' already has an alias 'hallArticulatoryPhonology2018', skipping ...
-[8308] Biber.pm:131> WARN - Entry alias 'katzRoutledgeHandbookPhonetics2019a' already has an alias 'garellekPhoneticsVoice2019', skipping ...
-[8308] Biber.pm:131> WARN - Entry alias 'mccarthyHarmonicGrammarHarmonic2016' is also a real entry key, skipping ...
-[8308] Biber.pm:133> INFO - WARNINGS: 3
+[8356] bibtex.pm:1519> INFO - Found BibTeX data source 'Prospectus.bib'
+[8635] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[8635] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[8635] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[8635] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[8651] bbl.pm:660> INFO - Writing 'Brinkerhoff_Prospectus.bbl' with encoding 'UTF-8'
+[8664] bbl.pm:763> INFO - Output to Brinkerhoff_Prospectus.bbl
+[8664] Biber.pm:131> WARN - Entry alias 'hannahsRoutledgeHandbookPhonological2018a' already has an alias 'hallArticulatoryPhonology2018', skipping ...
+[8664] Biber.pm:131> WARN - Entry alias 'katzRoutledgeHandbookPhonetics2019a' already has an alias 'garellekPhoneticsVoice2019', skipping ...
+[8664] Biber.pm:131> WARN - Entry alias 'mccarthyHarmonicGrammarHarmonic2016' is also a real entry key, skipping ...
+[8664] Biber.pm:131> WARN - ISBN '978-1-108-69655-5 978-1-108-49842-5 978-1-108-73603-9' in entry 'eslingVoiceQualityLaryngeal2019' is invalid - run biber with '--validate_datamodel' for details.
+[8664] Biber.pm:131> WARN - legacy year field 'In Preparation' in entry 'brinkerhoffResidualH1MeasureInPreparation' is not an integer - this will probably not sort properly.
+[8664] Biber.pm:131> WARN - ISBN '978-90-272-4801-5 978-90-272-9203-2' in entry 'ernestusIntraparadigmaticEffectsPerception2007' is invalid - run biber with '--validate_datamodel' for details.
+[8664] Biber.pm:133> INFO - WARNINGS: 6

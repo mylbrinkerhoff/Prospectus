@@ -85,7 +85,7 @@
       <file>Brinkerhoff_Prospectus.bcf</file>
     </requires>
     <requires type="editable">
-      <file>Library.bib</file>
+      <file>Prospectus.bib</file>
     </requires>
   </external>
 </requests>

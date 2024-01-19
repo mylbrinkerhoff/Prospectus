@@ -1,5 +1,12 @@
 {
     "cSpell.words": [
         "rearticulated"
+    ],
+    "grammarly.selectors": [
+        {
+            "language": "latex",
+            "scheme": "file"
+        }
     ]
+    "latex-workshop.latex.option.maxPrintLine.enabled": false
 }
