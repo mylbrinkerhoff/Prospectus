@@ -2450,8 +2450,6 @@
     <bcf:citekey order="23" intorder="1">albrightIdentificationBasesMorphological2002</bcf:citekey>
     <bcf:citekey order="24" intorder="1">mascaroExternalAllomorphyLexical2007</bcf:citekey>
     <bcf:citekey order="25" intorder="1">ernestusIntraparadigmaticEffectsPerception2007</bcf:citekey>
-    <bcf:citekey order="26" intorder="1">adlerAcousticsPhonationTypes2016</bcf:citekey>
-    <bcf:citekey order="27" intorder="1">brinkerhoffResidualH1MeasureInPreparation</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">
